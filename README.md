@@ -4,11 +4,11 @@ Paper reading on natural language processing.
 ***
 
 ## Dialogue Generation
+* **Tri-LSTM**: Tom Young, Erik Cambria, Iti Chaturvedi, et al. "Augmenting End-to-End Dialogue Systems With Commonsense Knowledge". AAAI(2018) [[PDF]](./papers/dialogue-generation/16573-76790-1-PB.pdf) :star::star::star::star::star:
 * **CCM**: Hao Zhou, Tom Young, Minlie Huang, et al. "Commonsense Knowledge Aware Conversation Generation with Graph Attention". IJCAI(2018) [[PDF]](./papers/dialogue-generation/IJCAI-0643.pdf) :star::star::star::star::star:
 * **PCCM**: Qiao Qian, Minlie Huang, et al. "Assigning Personality/Profile to a Chatting Machine for Coherent Conversation Generation". IJCAI(2018) [[PDF]](./papers/dialogue-generation/IJCAI-0595.pdf) :star::star::star::star::star:
-* **RL used**: Ryuichi Takanobu, Minlie Huang, Zhongzhou Zhao, et al. "A Weakly Supervised Method for Topic Segmentation and Labeling in Goal-oriented Dialogues via Reinforcement Learning". IJCAI(2018) [[PDF]](./papers/dialogue-generation/IJCAI-0612.pdf) :star::star::star::star::star:
-* **Commonsense Knowledge used**: Tom Young, Erik Cambria, Iti Chaturvedi, et al. "Augmenting End-to-End Dialogue Systems With Commonsense Knowledge". AAAI(2018) [[PDF]](./papers/dialogue-generation/16573-76790-1-PB.pdf) :star::star::star::star::star:
 * **ECM**: Hao Zhou, Minlie Huang, et al. "Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory". AAAI(2018) [[PDF]](./papers/dialogue-generation/16455-76513-1-PB.pdf) :star::star::star::star::star:
+* **RL used**: Ryuichi Takanobu, Minlie Huang, Zhongzhou Zhao, et al. "A Weakly Supervised Method for Topic Segmentation and Labeling in Goal-oriented Dialogues via Reinforcement Learning". IJCAI(2018) [[PDF]](./papers/dialogue-generation/IJCAI-0612.pdf) :star::star::star::star::star:
 
 
 ## Text Summarization

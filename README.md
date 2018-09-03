@@ -10,8 +10,12 @@ Paper reading on natural language processing.
 * **ECM**: Hao Zhou, Minlie Huang, et al. "Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory". AAAI(2018) [[PDF]](./papers/dialogue-system/16455-76513-1-PB.pdf) :star::star::star::star:
 * **RL used**: Ryuichi Takanobu, Minlie Huang, Zhongzhou Zhao, et al. "A Weakly Supervised Method for Topic Segmentation and Labeling in Goal-oriented Dialogues via Reinforcement Learning". IJCAI(2018) [[PDF]](./papers/dialogue-system/IJCAI-0612.pdf) :star::star::star::star::star:
 * **AliMe**: Minghui Qiu, Feng-Lin Li, Siyu Wang, et al. "AliMe Chat: A Sequence to Sequence and Rerank based Chatbot Engine". ACL(2017) [[PDF]](./papers/dialogue-system/P17-2079.pdf) :star::star::star:
-* **Retrieval+biseq2seq**: 	Yiping Song, Rui Yan, Xiang Li, et al.
+* **Retrieval+biseq2seq**: Yiping Song, Rui Yan, Xiang Li, et al.
  "Two are Better than One: An Ensemble of Retrieval- and Generation-Based Dialog Systems". arXiv(2016) [[PDF]](./papers/dialogue-system/1610.07149.pdf) :star::star::star::star:
+* **Retrieval+multi-seq2seq**: Yiping Song, Cheng-Te Li, Jian-Yun Nie, et al. "An Ensemble of Retrieval-Based and Generation-Based Human-Computer Conversation Systems". IJCAI(2018) [[PDF]](./papers/dialogue-system/IJCAI-0609.pdf) :star::star::star::star::star:
+* **EED**: Danish Contractor, Vineet Kumar, Sachindra Joshi, Gaurav Pandey. "Exemplar Encoder-Decoder for Neural Conversation Generation". ACL(2018) [[PDF]](./papers/dialogue-system/P18-1123.pdf) :star::star::star::star::star:
+* **Edit-N-Rerank**: Yu Wu, Furu Wei, Shaohan Huang, Zhoujun Li, Ming Zhou. "Response Generation by Context-aware Prototype Editing". arXiv(2018) [[PDF]](./papers/dialogue-system/1806.07042.pdf) :star::star::star::star::star:
+
 
 
 ## Text Summarization

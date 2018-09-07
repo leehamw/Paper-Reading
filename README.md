@@ -28,6 +28,7 @@ Paper reading on natural language processing.
 * **FTSum**: Ziqiang Cao, Furu Wei, Wenjie Li, Sujian Li. "Faithful to the Original: Fact Aware Neural Abstractive Summarization". arXiv(2017) [[PDF]](./papers/text-summarization/1711.04434.pdf) :star::star::star::star:
 * **Re^3Sum**: Ziqiang Cao, Wenjie Li, Furu Wei, Sujian Li. "Retrieve, Rerank and Rewrite: Soft Template Based Neural Summarization". ACL(2018) [[PDF]](./papers/text-summarization/P18-1015.pdf) [[code]](http://www4.comp.polyu.edu.hk/~cszqcao/data/IRSum_Resource.zip) :star::star::star::star::star:
 * **NeuSum**: Qingyu Zhou, Nan Yang, Furu Wei, et al. "Neural Document Summarization by Jointly Learning to Score and Select Sentences". ACL(2018) [[PDF]](./papers/text-summarization/P18-1061.pdf) :star::star::star::star::star:
+* **rnn-ext+abs+RL+rerank**: Yen-Chun Chen, Mohit Bansal. "Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting". ACL(2018) [[PDF]](./papers/text-summarization/P18-1063.pdf) [[code]](https://github.com/ChenRocks/fast_abs_rl) :star::star::star::star::star:
 
 
 ## Topic Modeling

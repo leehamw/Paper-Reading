@@ -13,9 +13,11 @@ Paper reading on natural language processing.
 * **Retrieval+biseq2seq**: Yiping Song, Rui Yan, Xiang Li, et al.
  "Two are Better than One: An Ensemble of Retrieval- and Generation-Based Dialog Systems". arXiv(2016) [[PDF]](./papers/dialogue-system/1610.07149.pdf) :star::star::star:
 * **Retrieval+multi-seq2seq**: Yiping Song, Cheng-Te Li, Jian-Yun Nie, et al. "An Ensemble of Retrieval-Based and Generation-Based Human-Computer Conversation Systems". IJCAI(2018) [[PDF]](./papers/dialogue-system/IJCAI-0609.pdf) :star::star::star::star:
-* **EED**: Danish Contractor, Vineet Kumar, Sachindra Joshi, Gaurav Pandey. "Exemplar Encoder-Decoder for Neural Conversation Generation". ACL(2018) [[PDF]](./papers/dialogue-system/P18-1123.pdf) :star::star::star::star::star:
+* **EED**: Danish Contractor, Vineet Kumar, Sachindra Joshi, Gaurav Pandey. "Exemplar Encoder-Decoder for Neural Conversation Generation". ACL(2018) [[PDF]](./papers/dialogue-system/P18-1123.pdf) :star::star::star::star:
 * **Edit-N-Rerank**: Yu Wu, Furu Wei, Shaohan Huang, Zhoujun Li, Ming Zhou. "Response Generation by Context-aware Prototype Editing". arXiv(2018) [[PDF]](./papers/dialogue-system/1806.07042.pdf) :star::star::star::star::star:
-* **TA-Seq2Seq**: Chen Xing, Wei Wu, Yu Wu, et al. "Topic Aware Neural Response Generation". AAAI (2017) [[PDF]](./papers/dialogue-system/AAAI17_TA-Seq2Seq.pdf) [[code]](https://github.com/LynetteXing1991/TA-Seq2Seq) :star::star::star::star:
+* **TA-Seq2Seq**: Chen Xing, Wei Wu, Yu Wu, et al. "Topic Aware Neural Response Generation". AAAI(2017) [[PDF]](./papers/dialogue-system/AAAI17_TA-Seq2Seq.pdf) [[code]](https://github.com/LynetteXing1991/TA-Seq2Seq) :star::star::star::star:
+* **STD/HTD**: Yansen Wang, Chenyi Liu, Minlie Huang, Liqiang Nie. "Learning to Ask Questions in Open-domain Conversational Systems with Typed Decoders". ACL(2018) [[PDF]](./papers/dialogue-system/P18-1204.pdf) [[code]](https://github.com/victorywys/Learning2Ask_TypedDecoder) :star::star::star::star::star:
+* **GSF used**: Pei Ke, Jian Guan, Minlie Huang, Xiaoyan Zhu. "Generating Informative Responses with Controlled Sentence Function". ACL(2018) [[PDF]](./papers/dialogue-system/P18-1139.pdf) [[code]](https://github.com/kepei1106/SentenceFunction) :star::star::star::star::star:
 
 
 ## Text Summarization

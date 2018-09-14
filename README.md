@@ -4,6 +4,7 @@ Paper reading on natural language processing.
 ***
 
 ## Dialogue System
+* **MMI**: Jiwei Li, Michel Galley, Chris Brockett, et al. "A Diversity-Promoting Objective Function for Neural Conversation Models". NAACL-HLT(2016)  [[PDF]](./papers/dialogue-system/N16-1014.pdf) [[code]](https://github.com/jiweil/Neural-Dialogue-Generation) :star::star::star::star::star:
 * **Tri-LSTM**: Tom Young, Erik Cambria, Iti Chaturvedi, et al. "Augmenting End-to-End Dialogue Systems With Commonsense Knowledge". AAAI(2018) [[PDF]](./papers/dialogue-system/16573-76790-1-PB.pdf) :star::star::star::star:
 * **CCM**: Hao Zhou, Tom Young, Minlie Huang, et al. "Commonsense Knowledge Aware Conversation Generation with Graph Attention". IJCAI(2018) [[PDF]](./papers/dialogue-system/IJCAI-0643.pdf) [[code]](https://github.com/tuxchow/ccm) :star::star::star::star::star:
 * **PCCM**: Qiao Qian, Minlie Huang, et al. "Assigning Personality/Profile to a Chatting Machine for Coherent Conversation Generation". IJCAI(2018) [[PDF]](./papers/dialogue-system/IJCAI-0595.pdf) [[code]](https://github.com/qianqiao/AssignPersonality) :star::star::star::star::star:

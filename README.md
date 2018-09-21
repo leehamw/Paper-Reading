@@ -4,7 +4,7 @@ Paper reading on natural language processing.
 ***
 
 ## Dialogue System
-* **MMI**: Jiwei Li, Michel Galley, Chris Brockett, et al. "A Diversity-Promoting Objective Function for Neural Conversation Models". NAACL-HLT(2016)  [[PDF]](./papers/dialogue-system/N16-1014.pdf) [[code]](https://github.com/jiweil/Neural-Dialogue-Generation) :star::star::star::star::star:
+* **MMI**: Jiwei Li, Michel Galley, Chris Brockett, et al. "A Diversity-Promoting Objective Function for Neural Conversation Models". NAACL-HLT(2016)  [[PDF]](./papers/dialogue-system/N16-1014.pdf) [[code]](https://github.com/jiweil/Neural-Dialogue-Generation) :star::star::star::star:
 * **TA**: Chen Xing, Wei Wu, Yu Wu, et al. "Topic Aware Neural Response Generation". AAAI(2017) [[PDF]](./papers/dialogue-system/AAAI17_TA-Seq2Seq.pdf) [[code]](https://github.com/LynetteXing1991/TA-Seq2Seq) :star::star::star::star:
 * **MA**: Ganbin Zhou, Ping Luo, Rongyu Cao, et al. "Mechanism-Aware Neural Machine for Dialogue Response Generation". AAAI(2017) [[PDF]](./papers/dialogue-system/14471-66751-1-PB.pdf) :star::star::star::star:
 * **HRED**: Iulian Vlad Serban, Alessandro Sordoni, Yoshua Bengio, et al. "Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models". AAAI(2016) [[PDF]](./papers/dialogue-system/11957-56353-1-PB.pdf) [[code]](https://github.com/julianser/hed-dlg) :star::star::star::star:
@@ -20,10 +20,10 @@ Paper reading on natural language processing.
 * **Retrieval+biseq2seq**: Yiping Song, Rui Yan, Xiang Li, et al.
  "Two are Better than One: An Ensemble of Retrieval- and Generation-Based Dialog Systems". arXiv(2016) [[PDF]](./papers/dialogue-system/1610.07149.pdf) :star::star::star:
 * **Retrieval+multi-seq2seq**: Yiping Song, Cheng-Te Li, Jian-Yun Nie, et al. "An Ensemble of Retrieval-Based and Generation-Based Human-Computer Conversation Systems". IJCAI(2018) [[PDF]](./papers/dialogue-system/IJCAI-0609.pdf) :star::star::star::star:
-* **EED**: Danish Contractor, Vineet Kumar, Sachindra Joshi, Gaurav Pandey. "Exemplar Encoder-Decoder for Neural Conversation Generation". ACL(2018) [[PDF]](./papers/dialogue-system/P18-1123.pdf) :star::star::star::star:
+* **EED**: Danish Contractor, Vineet Kumar, Sachindra Joshi, Gaurav Pandey. "Exemplar Encoder-Decoder for Neural Conversation Generation". ACL(2018) [[PDF]](./papers/dialogue-system/P18-1123.pdf) :star::star::star:
 * **Edit-N-Rerank**: Yu Wu, Furu Wei, Shaohan Huang, Zhoujun Li, Ming Zhou. "Response Generation by Context-aware Prototype Editing". arXiv(2018) [[PDF]](./papers/dialogue-system/1806.07042.pdf) :star::star::star::star::star:
 * **STD/HTD**: Yansen Wang, Chenyi Liu, Minlie Huang, Liqiang Nie. "Learning to Ask Questions in Open-domain Conversational Systems with Typed Decoders". ACL(2018) [[PDF]](./papers/dialogue-system/P18-1204.pdf) [[code]](https://github.com/victorywys/Learning2Ask_TypedDecoder) :star::star::star::star::star:
-* **GSF used**: Pei Ke, Jian Guan, Minlie Huang, Xiaoyan Zhu. "Generating Informative Responses with Controlled Sentence Function". ACL(2018) [[PDF]](./papers/dialogue-system/P18-1139.pdf) [[code]](https://github.com/kepei1106/SentenceFunction) :star::star::star::star::star:
+* **CSF used**: Pei Ke, Jian Guan, Minlie Huang, Xiaoyan Zhu. "Generating Informative Responses with Controlled Sentence Function". ACL(2018) [[PDF]](./papers/dialogue-system/P18-1139.pdf) [[code]](https://github.com/kepei1106/SentenceFunction) :star::star::star::star::star:
 * **DAWnet**: Wenjie Wang, Minlie Huang, Xin-Shun Xu, Fumin Shen, Liqiang Nie. "Chat More: Deepening and Widening the Chatting Topic via A Deep Model". SIGIR(2018) [[PDF]](./papers/dialogue-system/p255-wang.pdf) [[code]](https://sigirdawnet.wixsite.com/dawnet) :star::star::star::star::star:
 
 

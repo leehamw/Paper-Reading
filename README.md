@@ -26,6 +26,7 @@ Paper reading on natural language processing.
 * **STD/HTD**: Yansen Wang, Chenyi Liu, Minlie Huang, Liqiang Nie. "Learning to Ask Questions in Open-domain Conversational Systems with Typed Decoders". ACL(2018) [[PDF]](./papers/dialogue-system/P18-1204.pdf) [[code]](https://github.com/victorywys/Learning2Ask_TypedDecoder) :star::star::star::star::star:
 * **CSF used**: Pei Ke, Jian Guan, Minlie Huang, Xiaoyan Zhu. "Generating Informative Responses with Controlled Sentence Function". ACL(2018) [[PDF]](./papers/dialogue-system/P18-1139.pdf) [[code]](https://github.com/kepei1106/SentenceFunction) :star::star::star::star::star:
 * **DAWnet**: Wenjie Wang, Minlie Huang, Xin-Shun Xu, Fumin Shen, Liqiang Nie. "Chat More: Deepening and Widening the Chatting Topic via A Deep Model". SIGIR(2018) [[PDF]](./papers/dialogue-system/p255-wang.pdf) [[code]](https://sigirdawnet.wixsite.com/dawnet) :star::star::star::star::star:
+* **ZSDG**: Tiancheng Zhao, Maxine Eskenazi. "Zero-Shot Dialog Generation with Cross-Domain Latent Actions". SIGDIAL(2018) [[PDF]](./papers/dialogue-system/W18-5001.pdf) [[code]](https://github.com/snakeztc/NeuralDialog-ZSDG) :star::star::star::star::star:
 
 
 ## Text Summarization

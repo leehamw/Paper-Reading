@@ -1,7 +1,7 @@
 ﻿# Paper-Reading
 Paper reading on natural language processing.
 
-- [Deep Learning in NLP](#deep-learning-in-NLP)
+- [Deep Learning in NLP](#deep-learning-in-nlp)
 - [Dialogue System](#dialogue-system)
 - [Text Summarization](#text-summarization)
 - [Topic Modeling](#topic-modeling)

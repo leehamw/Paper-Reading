@@ -10,7 +10,7 @@ Paper reading on natural language processing.
 
 ## Deep Learning in NLP
 * **Attention**: Ashish Vaswani, Noam Shazeer, Niki Parmar, et al. "Attention is All you Need". NIPS(2017) [[PDF]](./papers/deep-learning/7181-attention-is-all-you-need.pdf) :star::star::star::star::star:
-* **Align**: Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio. "Neural Machine Translation by Jointly Learning to Align and Translate". ICLR(2015) [[PDF]](./papers/deep-learning/1409.0473-nmt-align.pdf) :star::star::star::star::star:
+* **Alignment**: Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio. "Neural Machine Translation by Jointly Learning to Align and Translate". ICLR(2015) [[PDF]](./papers/deep-learning/1409.0473-nmt-align.pdf) :star::star::star::star::star:
 * **GAN**: Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, et al. "Generative Adversarial Nets". NIPS(2014) [[PDF]](./papers/deep-learning/5423-generative-adversarial-nets.pdf) :star::star::star::star::star:
 
 

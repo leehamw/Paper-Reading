@@ -1,5 +1,5 @@
 ﻿# Paper-Reading
-Paper reading on natural language processing.
+Paper reading in natural language processing.
 
 - [Deep Learning in NLP](#deep-learning-in-nlp)
 - [Dialogue System](#dialogue-system)

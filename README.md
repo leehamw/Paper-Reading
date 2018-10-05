@@ -40,6 +40,7 @@ Paper reading in natural language processing.
 * **ZSDG**: Tiancheng Zhao, Maxine Eskenazi. "Zero-Shot Dialog Generation with Cross-Domain Latent Actions". SIGDIAL(2018) [[PDF]](./papers/dialogue-system/W18-5001.pdf) [[code]](https://github.com/snakeztc/NeuralDialog-ZSDG) :star::star::star::star::star:
 * **DUA**: Zhuosheng Zhang, Jiangtong Li, Pengfei Zhu, et al. "Modeling Multi-turn Conversation with Deep Utterance Aggregation". COLING(2018) [[PDF]](./papers/dialogue-system/C18-1317.pdf) [[code]](https://github.com/cooelf/DeepUtteranceAggregation) :star::star::star::star::star:
 * **DC-MMI**: Ashutosh Baheti, Alan Ritter, Jiwei Li, et al. "Generating More Interesting Responses in Neural Conversation Models with Distributional Constraints". EMNLP(2018) [[PDF]](./papers/dialogue-system/1809.01215.pdf) [[code]](https://github.com/abaheti95/DC-NeuralConversation) :star::star::star::star::star:
+* **Mem2Seq**: Andrea Madotto, Chien-Sheng Wu, Pascale Fung. "Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems". ACL(2018) [[PDF]](./papers/dialogue-system/P18-1136.pdf) [[code]](https://github.com/HLTCHKUST/Mem2Seq) :star::star::star::star::star:
 
 
 ## Text Summarization

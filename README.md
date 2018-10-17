@@ -56,6 +56,7 @@ Paper reading in natural language processing.
 * **Re^3Sum**: Ziqiang Cao, Wenjie Li, Furu Wei, Sujian Li. "Retrieve, Rerank and Rewrite: Soft Template Based Neural Summarization". ACL(2018) [[PDF]](./papers/text-summarization/P18-1015.pdf) [[code]](http://www4.comp.polyu.edu.hk/~cszqcao/data/IRSum_Resource.zip) :star::star::star::star::star:
 * **NeuSum**: Qingyu Zhou, Nan Yang, Furu Wei, et al. "Neural Document Summarization by Jointly Learning to Score and Select Sentences". ACL(2018) [[PDF]](./papers/text-summarization/P18-1061.pdf) :star::star::star::star::star:
 * **rnn-ext+abs+RL+rerank**: Yen-Chun Chen, Mohit Bansal. "Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting". ACL(2018) [[PDF]](./papers/text-summarization/P18-1063.pdf) [[code]](https://github.com/ChenRocks/fast_abs_rl) :star::star::star::star::star:
+* **Seq2Seq+CGU**: Junyang Lin, Xu Sun, Shuming Ma, Qi Su. "Global Encoding for Abstractive Summarization". ACL(2018) [[PDF]](./papers/text-summarization/P18-2027.pdf) [[code]](https://github.com/lancopku/Global-Encoding) :star::star::star::star:
 
 
 ## Topic Modeling

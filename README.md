@@ -9,12 +9,12 @@ Paper reading in natural language processing.
 ***
 
 ## Deep Learning in NLP
-* **Attention**: Ashish Vaswani, Noam Shazeer, Niki Parmar, et al. "Attention is All you Need". NIPS(2017) [[PDF]](./papers/deep-learning/7181-attention-is-all-you-need.pdf) :star::star::star::star::star:
-* **Seq2Seq**: Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio. "Neural Machine Translation by Jointly Learning to Align and Translate". ICLR(2015) [[PDF]](./papers/deep-learning/1409.0473-nmt-align.pdf) :star::star::star::star::star:
-* **Memory Network**: Sainbayar Sukhbaatar, Arthur Szlam, Jason Weston, Rob Fergus. "End-To-End Memory Networks". NIPS(2015) [[PDF]](./papers/deep-learning/5846-end-to-end-memory-networks.pdf) :star::star::star::star::star:
-* **Pointer Network**: Oriol Vinyals, Meire Fortunato, Navdeep Jaitly. "Pointer Networks". NIPS(2015) [[PDF]](./papers/deep-learning/5866-pointer-networks.pdf) :star::star::star::star::star:
-* **Copying Mechanism**: Jiatao Gu, Zhengdong Lu, Hang Li, Victor O.K. Li. "Incorporating Copying Mechanism in Sequence-to-Sequence Learning". ACL(2016) [[PDF]](./papers/deep-learning/P16-1154.pdf) :star::star::star::star::star:
-* **GAN**: Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, et al. "Generative Adversarial Nets". NIPS(2014) [[PDF]](./papers/deep-learning/5423-generative-adversarial-nets.pdf) :star::star::star::star::star:
+* **Attention**: Ashish Vaswani, Noam Shazeer, Niki Parmar, et al. "Attention is All you Need". NIPS(2017) [[PDF]](./papers/deep-learning/7181-attention-is-all-you-need.pdf) 
+* **Seq2Seq**: Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio. "Neural Machine Translation by Jointly Learning to Align and Translate". ICLR(2015) [[PDF]](./papers/deep-learning/1409.0473-nmt-align.pdf) 
+* **Memory Network**: Sainbayar Sukhbaatar, Arthur Szlam, Jason Weston, Rob Fergus. "End-To-End Memory Networks". NIPS(2015) [[PDF]](./papers/deep-learning/5846-end-to-end-memory-networks.pdf)
+* **Pointer Network**: Oriol Vinyals, Meire Fortunato, Navdeep Jaitly. "Pointer Networks". NIPS(2015) [[PDF]](./papers/deep-learning/5866-pointer-networks.pdf) 
+* **Copying Mechanism**: Jiatao Gu, Zhengdong Lu, Hang Li, Victor O.K. Li. "Incorporating Copying Mechanism in Sequence-to-Sequence Learning". ACL(2016) [[PDF]](./papers/deep-learning/P16-1154.pdf) 
+* **GAN**: Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, et al. "Generative Adversarial Nets". NIPS(2014) [[PDF]](./papers/deep-learning/5423-generative-adversarial-nets.pdf)
 * **Graph2Seq**: Kun Xu, Lingfei Wu, Zhiguo Wang, et al. "Graph2Seq: Graph to Sequence Learning with Attention-based Neural Networks". arXiv(2018) [[PDF]](./papers/deep-learning/1804.00823-graph2seq.pdf)
 
 

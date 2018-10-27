@@ -19,6 +19,7 @@ Paper reading in natural language processing.
 
 
 ## Dialogue System
+* **Survey of Dialogue Corpora**: Iulian Vlad Serban, Ryan Lowe, Peter Henderson, et al. "A Survey of Available Corpora For Building Data-Driven Dialogue Systems: The Journal Version". Dialogue & Discourse(2018) [[PDF]](./papers/dialogue-system/3690-7705-1-PB.pdf) :star::star::star:
 * **MMI**: Jiwei Li, Michel Galley, Chris Brockett, et al. "A Diversity-Promoting Objective Function for Neural Conversation Models". NAACL-HLT(2016)  [[PDF]](./papers/dialogue-system/N16-1014.pdf) [[code]](https://github.com/jiweil/Neural-Dialogue-Generation) :star::star::star::star:
 * **TA-Seq2Seq**: Chen Xing, Wei Wu, Yu Wu, et al. "Topic Aware Neural Response Generation". AAAI(2017) [[PDF]](./papers/dialogue-system/AAAI17_TA-Seq2Seq.pdf) [[code]](https://github.com/LynetteXing1991/TA-Seq2Seq) :star::star::star::star:
 * **MA**: Ganbin Zhou, Ping Luo, Rongyu Cao, et al. "Mechanism-Aware Neural Machine for Dialogue Response Generation". AAAI(2017) [[PDF]](./papers/dialogue-system/14471-66751-1-PB.pdf) :star::star::star::star:

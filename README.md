@@ -20,11 +20,12 @@ Paper reading in natural language processing.
 
 ## Dialogue System
 * **Survey of Dialogue Corpora**: Iulian Vlad Serban, Ryan Lowe, Peter Henderson, et al. "A Survey of Available Corpora For Building Data-Driven Dialogue Systems: The Journal Version". Dialogue & Discourse(2018) [[PDF]](./papers/dialogue-system/3690-7705-1-PB.pdf) :star::star::star:
-* **MMI**: Jiwei Li, Michel Galley, Chris Brockett, et al. "A Diversity-Promoting Objective Function for Neural Conversation Models". NAACL-HLT(2016)  [[PDF]](./papers/dialogue-system/N16-1014.pdf) [[code]](https://github.com/jiweil/Neural-Dialogue-Generation) :star::star::star::star:
+* **MMI**: Jiwei Li, Michel Galley, Chris Brockett, et al. "A Diversity-Promoting Objective Function for Neural Conversation Models". NAACL-HLT(2016)  [[PDF]](./papers/dialogue-system/N16-1014.pdf) [[code]](https://github.com/jiweil/Neural-Dialogue-Generation) :star::star::star:
+* **RL-Dialogue**: Jiwei Li, Will Monroe, Alan Ritter, et al. "Deep Reinforcement Learning for Dialogue Generation". EMNLP(2016) [[PDF]](./papers/dialogue-system/D16-1127.pdf) :star::star::star::star:
 * **TA-Seq2Seq**: Chen Xing, Wei Wu, Yu Wu, et al. "Topic Aware Neural Response Generation". AAAI(2017) [[PDF]](./papers/dialogue-system/AAAI17_TA-Seq2Seq.pdf) [[code]](https://github.com/LynetteXing1991/TA-Seq2Seq) :star::star::star::star:
-* **MA**: Ganbin Zhou, Ping Luo, Rongyu Cao, et al. "Mechanism-Aware Neural Machine for Dialogue Response Generation". AAAI(2017) [[PDF]](./papers/dialogue-system/14471-66751-1-PB.pdf) :star::star::star::star:
+* **MA**: Ganbin Zhou, Ping Luo, Rongyu Cao, et al. "Mechanism-Aware Neural Machine for Dialogue Response Generation". AAAI(2017) [[PDF]](./papers/dialogue-system/14471-66751-1-PB.pdf) :star::star::star:
 * **HRED**: Iulian Vlad Serban, Alessandro Sordoni, Yoshua Bengio, et al. "Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models". AAAI(2016) [[PDF]](./papers/dialogue-system/11957-56353-1-PB.pdf) [[code]](https://github.com/julianser/hed-dlg) :star::star::star::star:
-* **VHRED**: Iulian Vlad Serban, Alessandro Sordoni, Ryan Lowe, et al. "A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues". AAAI(2017) [[PDF]](./papers/dialogue-system/14567-66703-1-PB.pdf) [[code]](https://github.com/julianser/hed-dlg-truncated) :star::star::star::star::star:
+* **VHRED**: Iulian Vlad Serban, Alessandro Sordoni, Ryan Lowe, et al. "A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues". AAAI(2017) [[PDF]](./papers/dialogue-system/14567-66703-1-PB.pdf) [[code]](https://github.com/julianser/hed-dlg-truncated) :star::star::star::star:
 * **CVAE/KgCVAE**: Tiancheng Zhao, Ran Zhao, Maxine Eskénazi. "Learning Discourse-level Diversity for Neural Dialog Models using Conditional Variational Autoencoders". ACL(2017) [[PDF]](./papers/dialogue-system/P17-1061.pdf) [[code]](https://github.com/snakeztc/NeuralDialog-CVAE) :star::star::star::star::star:
 * **ERM**: Ganbin Zhou, Ping Luo, Yijun Xiao, et al. "Elastic Responding Machine for Dialog Generation with Dynamically Mechanism Selecting". AAAI(2018) [[PDF]](./papers/dialogue-system/16316-76896-1-PB.pdf) :star::star::star::star:
 * **Tri-LSTM**: Tom Young, Erik Cambria, Iti Chaturvedi, et al. "Augmenting End-to-End Dialogue Systems With Commonsense Knowledge". AAAI(2018) [[PDF]](./papers/dialogue-system/16573-76790-1-PB.pdf) :star::star::star:
@@ -49,7 +50,7 @@ Paper reading in natural language processing.
 
 
 ## Text Summarization
-* **ABS/ABS+**: Alexander M. Rush, Sumit Chopra, Jason Weston. "A Neural Attention Model for Abstractive Sentence Summarization". EMNLP (2015) [[PDF]](./papers/text-summarization/D15-1044.pdf) :star::star::star::star::star:
+* **ABS/ABS+**: Alexander M. Rush, Sumit Chopra, Jason Weston. "A Neural Attention Model for Abstractive Sentence Summarization". EMNLP (2015) [[PDF]](./papers/text-summarization/D15-1044.pdf) :star::star::star::star:
 * **RAS-Elman/RAS-LSTM**: Sumit Chopra, Michael Auli, Alexander M. Rush. "Abstractive Sentence Summarization with Attentive Recurrent Neural Networks. HLT-NAACL (2016) [[PDF]](./papers/text-summarization/N16-1012.pdf) [[code]](https://github.com/facebookarchive/NAMAS)  :star::star::star::star:
 * **words-lvt2k-1sent**: Ramesh Nallapati, Bowen Zhou, et al. "Abstractive Text Summarization using Sequence-to-sequence RNNs and Beyond". CoNLL (2016) [[PDF]](./papers/text-summarization/K16-1028.pdf) :star::star::star::star:
 * **PGN**: Abigail See, Peter J. Liu, Christopher D. Manning. "Get To The Point: Summarization with Pointer-Generator Networks". ACL (2017) [[PDF]](./papers/text-summarization/P17-1099.pdf) [[code]](https://github.com/abisee/pointer-generator) :star::star::star::star::star:

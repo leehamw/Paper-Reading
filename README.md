@@ -61,11 +61,12 @@ Paper reading in natural language processing.
 * **PGN**: Abigail See, Peter J. Liu, Christopher D. Manning. "Get To The Point: Summarization with Pointer-Generator Networks". ACL (2017) [[PDF]](./papers/text-summarization/P17-1099.pdf) [[code]](https://github.com/abisee/pointer-generator) :star::star::star::star::star:
 * **GAN for TextSum**: Linqing Liu, Yao Lu, Min Yang, Qiang Qu, Jia Zhu, Hongyan Li. "Generative Adversarial Network for Abstractive Text Summarization". AAAI (2018) [[PDF]](./papers/text-summarization/16238-77257-1-PB.pdf) :star::star::star:
 * **Reinforced-Topic-ConvS2S**: Li Wang, Junlin Yao, Yunzhe Tao, et al. "A reinforced topic-aware convolutional sequence-to-sequence model for abstractive text summarization." IJCAI (2018) [[PDF]](./papers/text-summarization/0619.pdf) :star::star::star::star::star:
-* **FTSum**: Ziqiang Cao, Furu Wei, Wenjie Li, Sujian Li. "Faithful to the Original: Fact Aware Neural Abstractive Summarization". arXiv(2017) [[PDF]](./papers/text-summarization/1711.04434.pdf) :star::star::star::star:
+* **FTSum**: Ziqiang Cao, Furu Wei, Wenjie Li, Sujian Li. "Faithful to the Original: Fact Aware Neural Abstractive Summarization". AAAI(2018) [[PDF]](./papers/text-summarization/16121-76767-1-PB.pdf) :star::star::star::star:
 * **Re^3Sum**: Ziqiang Cao, Wenjie Li, Furu Wei, Sujian Li. "Retrieve, Rerank and Rewrite: Soft Template Based Neural Summarization". ACL(2018) [[PDF]](./papers/text-summarization/P18-1015.pdf) [[code]](http://www4.comp.polyu.edu.hk/~cszqcao/data/IRSum_Resource.zip) :star::star::star::star::star:
 * **NeuSum**: Qingyu Zhou, Nan Yang, Furu Wei, et al. "Neural Document Summarization by Jointly Learning to Score and Select Sentences". ACL(2018) [[PDF]](./papers/text-summarization/P18-1061.pdf) :star::star::star::star::star:
 * **rnn-ext+abs+RL+rerank**: Yen-Chun Chen, Mohit Bansal. "Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting". ACL(2018) [[PDF]](./papers/text-summarization/P18-1063.pdf) [[code]](https://github.com/ChenRocks/fast_abs_rl) :star::star::star::star::star:
 * **Seq2Seq+CGU**: Junyang Lin, Xu Sun, Shuming Ma, Qi Su. "Global Encoding for Abstractive Summarization". ACL(2018) [[PDF]](./papers/text-summarization/P18-2027.pdf) [[code]](https://github.com/lancopku/Global-Encoding) :star::star::star::star:
+* **T-ConvS2S**: Shashi Narayan, Shay B. Cohen, Mirella Lapata. "Don’t Give Me the Details, Just the Summary! Topic-Aware Convolutional Neural Networks for Extreme Summarization". EMNLP(2018) [[PDF]](./papers/text-summarization/D18-1206.pdf) [[code]](https://github.com/shashiongithub/XSum) :star::star::star::star::star:
 
 
 ## Topic Modeling

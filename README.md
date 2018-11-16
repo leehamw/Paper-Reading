@@ -21,7 +21,7 @@ Paper reading in natural language processing.
 
 ## Dialogue System
 * **Survey of Dialogue Corpora**: Iulian Vlad Serban, Ryan Lowe, Peter Henderson, et al. "A Survey of Available Corpora For Building Data-Driven Dialogue Systems: The Journal Version". Dialogue & Discourse(2018) [[PDF]](./papers/dialogue-system/3690-7705-1-PB.pdf) :star::star::star:
-* **Edit-N-Rerank**: Yu Wu, Furu Wei, Shaohan Huang, Zhoujun Li, Ming Zhou. "Response Generation by Context-aware Prototype Editing". arXiv(2018) [[PDF]](./papers/dialogue-system/1806.07042.pdf) :star::star::star::star::star:
+* **Edit-N-Rerank**: Yu Wu, Furu Wei, Shaohan Huang, Zhoujun Li, Ming Zhou. "Response Generation by Context-aware Prototype Editing". AAAI(2019) [[PDF]](./papers/dialogue-system/1806.07042.pdf) [[code]](https://github.com/MarkWuNLP/ResponseEdit) :star::star::star::star:
 * **STD/HTD**: Yansen Wang, Chenyi Liu, Minlie Huang, Liqiang Nie. "Learning to Ask Questions in Open-domain Conversational Systems with Typed Decoders". ACL(2018) [[PDF]](./papers/dialogue-system/P18-1204.pdf) [[code]](https://github.com/victorywys/Learning2Ask_TypedDecoder) :star::star::star::star::star:
 * **CSF used**: Pei Ke, Jian Guan, Minlie Huang, Xiaoyan Zhu. "Generating Informative Responses with Controlled Sentence Function". ACL(2018) [[PDF]](./papers/dialogue-system/P18-1139.pdf) [[code]](https://github.com/kepei1106/SentenceFunction) :star::star::star::star::star:
 * **Mem2Seq**: Andrea Madotto, Chien-Sheng Wu, Pascale Fung. "Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems". ACL(2018) [[PDF]](./papers/dialogue-system/P18-1136.pdf) [[code]](https://github.com/HLTCHKUST/Mem2Seq) :star::star::star::star::star:

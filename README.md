@@ -9,8 +9,9 @@ Paper reading in natural language processing.
 ***
 
 ## Deep Learning in NLP
+* **BERT**: Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova. "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding". arXiv(2018) [[PDF]](./papers/deep-learning/1810.04805.pdf) [[code]](https://github.com/google-research/bert)
 * **Survey on Attention**: Dichao Hu. "An Introductory Survey on Attention Mechanisms in NLP Problems". arXiv(2018) [[PDF]](./papers/deep-learning/1811.05544.pdf)
-* **Attention**: Ashish Vaswani, Noam Shazeer, Niki Parmar, et al. "Attention is All you Need". NIPS(2017) [[PDF]](./papers/deep-learning/7181-attention-is-all-you-need.pdf) 
+* **Transformer**: Ashish Vaswani, Noam Shazeer, Niki Parmar, et al. "Attention is All you Need". NIPS(2017) [[PDF]](./papers/deep-learning/7181-attention-is-all-you-need.pdf) 
 * **Seq2Seq+Attention**: Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio. "Neural Machine Translation by Jointly Learning to Align and Translate". ICLR(2015) [[PDF]](./papers/deep-learning/1409.0473-nmt-align.pdf) 
 * **Memory Network**: Sainbayar Sukhbaatar, Arthur Szlam, Jason Weston, Rob Fergus. "End-To-End Memory Networks". NIPS(2015) [[PDF]](./papers/deep-learning/5846-end-to-end-memory-networks.pdf)
 * **Pointer Network**: Oriol Vinyals, Meire Fortunato, Navdeep Jaitly. "Pointer Networks". NIPS(2015) [[PDF]](./papers/deep-learning/5866-pointer-networks.pdf) 

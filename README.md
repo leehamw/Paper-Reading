@@ -19,6 +19,7 @@ Paper reading in natural language processing.
 * **GAN**: Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, et al. "Generative Adversarial Nets". NIPS(2014) [[PDF]](./papers/deep-learning/5423-generative-adversarial-nets.pdf)
 * **Graph2Seq**: Kun Xu, Lingfei Wu, Zhiguo Wang, et al. "Graph2Seq: Graph to Sequence Learning with Attention-based Neural Networks". arXiv(2018) [[PDF]](./papers/deep-learning/1804.00823-graph2seq.pdf)
 * **Pretrained Seq2Seq**: Prajit Ramachandran, Peter Liu, Quoc Le. "Unsupervised Pretraining for Sequence to Sequence Learning". EMNLP(2017) [[PDF]](./papers/deep-learning/D17-1039.pdf)
+* **Multi-task Learning**: Sebastian Ruder. "An Overview of Multi-Task Learning in Deep Neural Networks". arXiv(2017) [[PDF]](./papers/deep-learning/1706.05098.pdf)
 
 
 ## Dialogue System

@@ -26,6 +26,8 @@ Paper reading in natural language processing.
 ## Dialogue System
 * **Survey of Dialogue Corpora**: Iulian Vlad Serban, Ryan Lowe, Peter Henderson, et al. "A Survey of Available Corpora For Building Data-Driven Dialogue Systems: The Journal Version". Dialogue & Discourse(2018) [[PDF]](./papers/dialogue-system/3690-7705-1-PB.pdf) :star::star::star:
 * **Edit-N-Rerank**: Yu Wu, Furu Wei, Shaohan Huang, Zhoujun Li, Ming Zhou. "Response Generation by Context-aware Prototype Editing". AAAI(2019) [[PDF]](./papers/dialogue-system/1806.07042.pdf) [[code]](https://github.com/MarkWuNLP/ResponseEdit) :star::star::star::star:
+* **D2A**: Daya Guo, Duyu Tang, et al. "Dialog-to-Action: Conversational Question Answering Over a Large-Scale Knowledge Base". NIPS(2018) [[PDF]](./papers/dialogue-system/7558-dialog-to-action.pdf) :star::star::star::star::star:
+* **DAIM**: Yizhe Zhang, Michel Galley, et al. "Generating Informative and Diverse Conversational Responses via Adversarial Information Maximization". NIPS(2018) [[PDF]](./papers/dialogue-system/7452-generating-informative.pdf) :star::star::star::star::star:
 * **LU-DST**: Abhinav Rastogi, Raghav Gupta, Dilek Hakkani-Tur. "Multi-task Learning for Joint Language Understanding and Dialogue State Tracking". SIGDIAL(2018) [[PDF]](./papers/dialogue-system/W18-5045.pdf)  :star::star::star::star:
 * **MTask**: Marjan Ghazvininejad, Chris Brockett, et al. "A Knowledge-Grounded Neural Conversation Model". AAAI(2018)  [[PDF]](./papers/dialogue-system/16710-76819-1-PB.pdf) :star::star::star:
 * **MTask-M**: Yi Luan, Chris Brockett, et al. "Multi-Task Learning for Speaker-Role Adaptation in Neural Conversation Models". IJCNLP(2018) [[PDF]](./papers/dialogue-system/I17-1061.pdf) :star::star::star::star:

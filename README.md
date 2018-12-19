@@ -18,6 +18,7 @@ Paper reading in natural language processing.
 * **Pointer Network**: Oriol Vinyals, Meire Fortunato, Navdeep Jaitly. "Pointer Networks". NIPS(2015) [[PDF]](./papers/deep-learning/5866-pointer-networks.pdf) 
 * **Copying Mechanism**: Jiatao Gu, Zhengdong Lu, Hang Li, Victor O.K. Li. "Incorporating Copying Mechanism in Sequence-to-Sequence Learning". ACL(2016) [[PDF]](./papers/deep-learning/P16-1154.pdf) 
 * **GAN**: Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, et al. "Generative Adversarial Nets". NIPS(2014) [[PDF]](./papers/deep-learning/5423-generative-adversarial-nets.pdf)
+* **SeqGAN**: Lantao Yu, Weinan Zhang, et al. "SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient". AAAI(2017) [[PDF]](./papers/deep-learning/14344-66977-1-PB.pdf) [[code]](https://github.com/LantaoYu/SeqGAN)
 * **Graph2Seq**: Kun Xu, Lingfei Wu, Zhiguo Wang, et al. "Graph2Seq: Graph to Sequence Learning with Attention-based Neural Networks". arXiv(2018) [[PDF]](./papers/deep-learning/1804.00823-graph2seq.pdf)
 * **Pretrained Seq2Seq**: Prajit Ramachandran, Peter Liu, Quoc Le. "Unsupervised Pretraining for Sequence to Sequence Learning". EMNLP(2017) [[PDF]](./papers/deep-learning/D17-1039.pdf)
 * **Multi-task Learning**: Sebastian Ruder. "An Overview of Multi-Task Learning in Deep Neural Networks". arXiv(2017) [[PDF]](./papers/deep-learning/1706.05098.pdf)

@@ -6,6 +6,7 @@ Paper reading list in natural language processing.
 - [Text Summarization](#text-summarization)
 - [Topic Modeling](#topic-modeling)
 - [Machine Translation](#machine-translation)
+- [Question Answering](#question-answering)
 - [Image Captioning](#image-captioning)
 
 ***
@@ -25,7 +26,6 @@ Paper reading list in natural language processing.
 * **Pretrained Seq2Seq**: "Unsupervised Pretraining for Sequence to Sequence Learning". EMNLP(2017) [[PDF]](./papers/deep-learning/D17-1039.pdf)
 * **Multi-task Learning**: "An Overview of Multi-Task Learning in Deep Neural Networks". arXiv(2017) [[PDF]](./papers/deep-learning/1706.05098.pdf)
 * **Sluice network**: "Latent Multi-task Architecture Learning". AAAI(2019) [[PDF]](./papers/deep-learning/1705.08142.pdf) [[code]]()
-
 
 ## Dialogue System
 * **Survey of Dialogue Corpora**: "A Survey of Available Corpora For Building Data-Driven Dialogue Systems: The Journal Version". Dialogue & Discourse(2018) [[PDF]](./papers/dialogue-system/3690-7705-1-PB.pdf) :star::star::star:
@@ -67,9 +67,7 @@ Paper reading list in natural language processing.
 * **ECM**: "Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory". AAAI(2018) [[PDF]](./papers/dialogue-system/16455-76513-1-PB.pdf) [[code]](https://github.com/tuxchow/ecm) :star::star::star::star::star:
 * **Topic-Seg-Label**: "A Weakly Supervised Method for Topic Segmentation and Labeling in Goal-oriented Dialogues via Reinforcement Learning". IJCAI(2018) [[PDF]](./papers/dialogue-system/IJCAI-0612.pdf) [[code]](https://github.com/truthless11/Topic-Seg-Label) :star::star::star::star:
 * **AliMe**: "AliMe Chat: A Sequence to Sequence and Rerank based Chatbot Engine". ACL(2017) [[PDF]](./papers/dialogue-system/P17-2079.pdf) :star::star::star:
-* **Retrieval+biseq2seq**: "Two are Better than One: An Ensemble of Retrieval- and Generation-Based Dialog Systems". arXiv(2016) [[PDF]](./papers/dialogue-system/1610.07149.pdf) :star::star::star:
 * **Retrieval+multi-seq2seq**: "An Ensemble of Retrieval-Based and Generation-Based Human-Computer Conversation Systems". IJCAI(2018) [[PDF]](./papers/dialogue-system/IJCAI-0609.pdf) :star::star::star::star:
-
 
 ## Text Summarization
 * **MacNet**: "MacNet: Transferring Knowledge from Machine
@@ -87,7 +85,6 @@ Comprehension to Sequence-to-Sequence Models". NIPS(2018) [[PDF]](./papers/text-
 * **RAS-Elman/RAS-LSTM**: "Abstractive Sentence Summarization with Attentive Recurrent Neural Networks. HLT-NAACL (2016) [[PDF]](./papers/text-summarization/N16-1012.pdf) [[code]](https://github.com/facebookarchive/NAMAS)  :star::star::star::star:
 * **words-lvt2k-1sent**: "Abstractive Text Summarization using Sequence-to-sequence RNNs and Beyond". CoNLL (2016) [[PDF]](./papers/text-summarization/K16-1028.pdf) :star::star::star::star:
 
-
 ## Topic Modeling
 * **LDA**: "Latent Dirichlet Allocation". JMLR (2003) [[PDF]](./papers/topic-modeling/JMLR03_LDA_BleiNgJordan.pdf) [[code]](https://github.com/blei-lab/lda-c) :star::star::star::star::star:
 * **DTM**: "Dynamic Topic Models". ICML (2006) [[PDF]](./papers/topic-modeling/ICML06_DTM.pdf) [[code]](https://github.com/blei-lab/dtm) :star::star::star:
@@ -97,7 +94,7 @@ Comprehension to Sequence-to-Sequence Models". NIPS(2018) [[PDF]](./papers/text-
 * **RATM-D**: Recurrent Attentional Topic Model. AAAI (2017)[[PDF]](./papers/topic-modeling/AAAI17_RATM-D.pdf) :star::star::star::star:
 * **RIBS-TM**: "Don't Forget the Quantifiable Relationship between Words: Using Recurrent Neural Network for Short Text Topic Discovery". AAAI (2017) [[PDF]](./papers/topic-modeling/AAAI17_RIBS_TM.pdf) :star::star::star::star:
 * **Topic coherence**: "Optimizing Semantic Coherence in Topic Models". EMNLP (2011) [[PDF]](./papers/topic-modeling/EMNLP11_Topic_Coherence.pdf) :star::star::star:
-* **Topic coherence**: "Automatic Evaluation of Topic Coherence". HLT-NAACL (2010) [[PDF]](./papers/topic-modeling/Automatic_Evaluation_of_Topic_Coherence.pdf) :star::star::star:
+* **Topic coherence**: "Automatic Evaluation of Topic Coherence". NAACL (2010) [[PDF]](./papers/topic-modeling/Automatic_Evaluation_of_Topic_Coherence.pdf) :star::star::star:
 * **DADT**: "Authorship Attribution with Author-aware Topic Models". ACL(2012) [[PDF]](./papers/topic-modeling/P12-2052.pdf) :star::star::star::star:
 * **Gaussian-LDA**: "Gaussian LDA for Topic Models with Word Embeddings". ACL (2015) [[PDF]](./papers/topic-modeling/ACL15_Gaussian_LDA.pdf) [[code]](https://github.com/rajarshd/Gaussian_LDA) :star::star::star::star::star:
 * **LFTM**:	"Improving Topic Models with Latent Feature Word Representations". TACL (2015) [[PDF]](./papers/topic-modeling/TACL15_LFTM.pdf) [[code]](https://github.com/datquocnguyen/LFTM) :star::star::star::star::star:
@@ -110,22 +107,19 @@ Comprehension to Sequence-to-Sequence Models". NIPS(2018) [[PDF]](./papers/text-
 * **Short text + Word embedding**: "Topic Discovery for Short Texts Using Word Embeddings". ICDM (2016) [[PDF]](./papers/topic-modeling/ICDE16_Topic_Discovery_for_Short_Texts_Using_Word_Embeddings.pdf) :star::star::star:
 * **L-EnsNMF**: "L-EnsNMF: Boosted Local Topic Discovery via Ensemble of Nonnegative Matrix Factorization". ICDM (2016) [[PDF]](./papers/topic-modeling/ICDM16_L-EnsNMF.pdf) [[code]](https://github.com/sanghosuh/lens_nmf-matlab) :star::star::star::star::star:
 * **DC-NMF**: "DC-NMF: nonnegative matrix factorization based on divide-and-conquer for fast clustering and topic modeling". J. Global Optimization (2017) [[PDF]](./papers/topic-modeling/JGO17_DC_NMF.pdf) :star::star::star::star:
-* **cFTM**: "The contextual focused topic model". KDD (2012) [[PDF]](./papers/topic-modeling/KDD12_cFTM.pdf) :star::star::star::star::star:
+* **cFTM**: "The contextual focused topic model". KDD (2012) [[PDF]](./papers/topic-modeling/KDD12_cFTM.pdf) :star::star::star::star:
 * **CLM**: "Collaboratively Improving Topic Discovery and Word Embeddings by Coordinating Global and Local Contexts". KDD (2017) [[PDF]](./papers/topic-modeling/KDD17_CLM.pdf) [[code]](https://github.com/XunGuangxu/2in1) :star::star::star::star::star:
 * **GMTM**: "Unsupervised Topic Modeling for Short Texts Using Distributed Representations of Words". NAACL (2015) [[PDF]](./papers/topic-modeling/NAACL15_GMTM.pdf) :star::star::star::star:
 * **Parameter Estimation**: "Parameter estimation for text analysis." Technical report (2005). [[PDF]](./papers/topic-modeling/Parameter_estimation_for_text_analysis.pdf) :star::star::star::star:
 * **GPU-PDMM**: "Enhancing Topic Modeling for Short Texts with Auxiliary Word Embeddings". TOIS (2017) [[PDF]](./papers/topic-modeling/TOIS17_GPU-PDMM.pdf) :star::star::star::star:
 * **BPT**: "A Two-Level Topic Model Towards Knowledge Discovery from Citation Networks". TKDE (2014) [[PDF]](./papers/topic-modeling/TKDE14_BPT.pdf) :star::star::star::star::star:
 * **BTM**: "A Biterm Topic Model for Short Texts". WWW (2013) [[PDF]](./papers/topic-modeling/WWW13_BTM.pdf) [[code]](https://github.com/xiaohuiyan/BTM) :star::star::star::star:
-* **HGTM**: "Using Hashtag Graph-Based Topic Model to Connect Semantically-Related Words Without Co-Occurrence in Microblogs". TKDE (2016) [[PDF]](./papers/topic-modeling/TKDE16_HGTM.pdf) :star::star::star::star::star:
-* **WTTM**: "Intensity of Relationship Between Words: Using Word Triangles in Topic Discovery for Short Texts". APWeb/WAIM (2017) [[PDF]](./papers/topic-modeling/WAIM17_WTTM.pdf) :star::star:
-* **COTM**: "A topic model for co-occurring normal documents and short texts". WWW (2018) [[PDF]](./papers/topic-modeling/WWW18_COTM.pdf) :star::star::star::star::star:
-
+* **HGTM**: "Using Hashtag Graph-Based Topic Model to Connect Semantically-Related Words Without Co-Occurrence in Microblogs". TKDE (2016) [[PDF]](./papers/topic-modeling/TKDE16_HGTM.pdf) :star::star::star::star:
+* **COTM**: "A topic model for co-occurring normal documents and short texts". WWW (2018) [[PDF]](./papers/topic-modeling/WWW18_COTM.pdf) :star::star::star::star:
 
 ## Machine Translation
 * **Deliberation Networks**: "Deliberation Networks: Sequence Generation Beyond One-Pass Decoding". NIPS(2017) [[PDF]](./papers/machine-translation/6775-deliberation-networks.pdf) :star::star::star::star:
 * **Multi-pass decoder**: "Adaptive Multi-pass Decoder for Neural Machine Translation". EMNLP(2018) [[PDF]](./papers/machine-translation/Multi-pass-decoder.pdf) :star::star::star::star:
-
 
 ## Question Answering
 * **MTQA**: "Multi-Task Learning with Multi-View Attention for Answer Selection and Knowledge Base Question Answering". AAAI(2019) [[PDF]](./papers/question-answering/1812.02354.pdf) [[code]](https://github.com/dengyang17/MTQA) :star::star::star::star:

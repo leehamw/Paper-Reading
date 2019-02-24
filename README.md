@@ -124,8 +124,9 @@ Comprehension to Sequence-to-Sequence Models". NIPS(2018) [[PDF]](./papers/text-
 ## Question Answering
 * **MTQA**: "Multi-Task Learning with Multi-View Attention for Answer Selection and Knowledge Base Question Answering". AAAI(2019) [[PDF]](./papers/question-answering/1812.02354.pdf) [[code]](https://github.com/dengyang17/MTQA) :star::star::star::star:
 * **CQG-KBQA**: "Knowledge Base Question Answering via Encoding of
-Complex Query Graphs". EMNLP(2018) [[PDF]](./papers/question-answering/D18-1242.pdf) [[code]](http://202.120.38.146/CompQA/) :star::star::star::star:
+Complex Query Graphs". EMNLP(2018) [[PDF]](./papers/question-answering/D18-1242.pdf) [[code]](http://202.120.38.146/CompQA/) :star::star::star::star::star:
 * **HR-BiLSTM**: "Improved Neural Relation Detection for Knowledge Base Question Answering". ACL(2017) [[PDF]](./papers/question-answering/P17-1053.pdf) :star::star::star::star:
+* **KBQA-CGK**: "An End-to-End Model for Question Answering over Knowledge Base with Cross-Attention Combining Global Knowledge". ACL(2017) [[PDF]](./papers/question-answering/P17-1021.pdf) :star::star::star::star:
 
 ## Image Captioning
 * **MLAIC**: "A Multi-task Learning Approach for Image Captioning". IJCAI(2018) [[PDF]](./papers/image-captioning/2018-ijcai-multitask-final.pdf) [[code]](https://github.com/andyweizhao/Multitask_Image_Captioning) :star::star::star::star:

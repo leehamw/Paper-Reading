@@ -24,7 +24,7 @@ Paper reading list in natural language processing.
 * **GAN**: "Generative Adversarial Nets". NIPS(2014) [[PDF]](./papers/deep-learning/5423-generative-adversarial-nets.pdf)
 * **SeqGAN**: "SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient". AAAI(2017) [[PDF]](./papers/deep-learning/14344-66977-1-PB.pdf) [[code]](https://github.com/LantaoYu/SeqGAN)
 * **MacNet**: "MacNet: Transferring Knowledge from Machine
-Comprehension to Sequence-to-Sequence Models". NIPS(2018) [[PDF]](./papers/text-summarization/7848-macnet.pdf) :star::star::star::star::star:
+Comprehension to Sequence-to-Sequence Models". NIPS(2018) [[PDF]](./papers/text-summarization/7848-macnet.pdf)
 * **Graph2Seq**: "Graph2Seq: Graph to Sequence Learning with Attention-based Neural Networks". arXiv(2018) [[PDF]](./papers/deep-learning/1804.00823-graph2seq.pdf)
 * **Pretrained Seq2Seq**: "Unsupervised Pretraining for Sequence to Sequence Learning". EMNLP(2017) [[PDF]](./papers/deep-learning/D17-1039.pdf)
 * **Multi-task Learning**: "An Overview of Multi-Task Learning in Deep Neural Networks". arXiv(2017) [[PDF]](./papers/deep-learning/1706.05098.pdf)

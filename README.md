@@ -15,13 +15,16 @@ Paper reading list in natural language processing.
 * **BERT**: "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding". arXiv(2018) [[PDF]](./papers/deep-learning/1810.04805.pdf) [[code]](https://github.com/google-research/bert)
 * **ELMo**: "Deep contextualized word representations". NAACL(2018) [[PDF]](./papers/deep-learning/N18-1202.pdf)
 * **Survey on Attention**: "An Introductory Survey on Attention Mechanisms in NLP Problems". arXiv(2018) [[PDF]](./papers/deep-learning/1811.05544.pdf)
-* **Transformer**: "Attention is All you Need". NIPS(2017) [[PDF]](./papers/deep-learning/7181-attention-is-all-you-need.pdf) 
-* **Seq2Seq+Attention**: "Neural Machine Translation by Jointly Learning to Align and Translate". ICLR(2015) [[PDF]](./papers/deep-learning/1409.0473-nmt-align.pdf) 
+* **Transformer**: "Attention is All you Need". NIPS(2017) [[PDF]](./papers/deep-learning/7181-attention-is-all-you-need.pdf) [[code-official]](https://github.com/tensorflow/tensor2tensor) [[code-tf]](https://github.com/Kyubyong/transformer) [[code-py]](https://github.com/jadore801120/attention-is-all-you-need-pytorch)
+* **Additive Attention**: "Neural Machine Translation by Jointly Learning to Align and Translate". ICLR(2015) [[PDF]](./papers/deep-learning/1409.0473-nmt-align.pdf) 
+* **Multiplicative Attention**: "Effective Approaches to Attention-based Neural Machine Translation". EMNLP(2015) [[PDF]](./papers/deep-learning/D15-1166.pdf)
 * **Memory Network**: "End-To-End Memory Networks". NIPS(2015) [[PDF]](./papers/deep-learning/5846-end-to-end-memory-networks.pdf)
 * **Pointer Network**: "Pointer Networks". NIPS(2015) [[PDF]](./papers/deep-learning/5866-pointer-networks.pdf) 
 * **Copying Mechanism**: "Incorporating Copying Mechanism in Sequence-to-Sequence Learning". ACL(2016) [[PDF]](./papers/deep-learning/P16-1154.pdf) 
 * **GAN**: "Generative Adversarial Nets". NIPS(2014) [[PDF]](./papers/deep-learning/5423-generative-adversarial-nets.pdf)
 * **SeqGAN**: "SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient". AAAI(2017) [[PDF]](./papers/deep-learning/14344-66977-1-PB.pdf) [[code]](https://github.com/LantaoYu/SeqGAN)
+* **MacNet**: "MacNet: Transferring Knowledge from Machine
+Comprehension to Sequence-to-Sequence Models". NIPS(2018) [[PDF]](./papers/text-summarization/7848-macnet.pdf) :star::star::star::star::star:
 * **Graph2Seq**: "Graph2Seq: Graph to Sequence Learning with Attention-based Neural Networks". arXiv(2018) [[PDF]](./papers/deep-learning/1804.00823-graph2seq.pdf)
 * **Pretrained Seq2Seq**: "Unsupervised Pretraining for Sequence to Sequence Learning". EMNLP(2017) [[PDF]](./papers/deep-learning/D17-1039.pdf)
 * **Multi-task Learning**: "An Overview of Multi-Task Learning in Deep Neural Networks". arXiv(2017) [[PDF]](./papers/deep-learning/1706.05098.pdf)
@@ -29,8 +32,9 @@ Paper reading list in natural language processing.
 
 ## Dialogue System
 * **Survey of Dialogue Corpora**: "A Survey of Available Corpora For Building Data-Driven Dialogue Systems: The Journal Version". Dialogue & Discourse(2018) [[PDF]](./papers/dialogue-system/3690-7705-1-PB.pdf) :star::star::star:
+* **Two-Stage-Transformer**: "Wizard of Wikipedia: Knowledge-Powered Conversational agents". ICLR(2019) [[PDF]](./papers/dialogue-system/1811.01241.pdf) :star::star::star::star:
 * **Edit-N-Rerank**: "Response Generation by Context-aware Prototype Editing". AAAI(2019) [[PDF]](./papers/dialogue-system/1806.07042.pdf) [[code]](https://github.com/MarkWuNLP/ResponseEdit) :star::star::star::star:
-* **D2A**: "Dialog-to-Action: Conversational Question Answering Over a Large-Scale Knowledge Base". NIPS(2018) [[PDF]](./papers/dialogue-system/7558-dialog-to-action.pdf) :star::star::star::star::star:
+* **D2A**: "Dialog-to-Action: Conversational Question Answering Over a Large-Scale Knowledge Base". NIPS(2018) [[PDF]](./papers/dialogue-system/7558-dialog-to-action.pdf) :star::star::star::star:
 * **DAIM**: "Generating Informative and Diverse Conversational Responses via Adversarial Information Maximization". NIPS(2018) [[PDF]](./papers/dialogue-system/7452-generating-informative.pdf) :star::star::star::star::star:
 * **LU-DST**: "Multi-task Learning for Joint Language Understanding and Dialogue State Tracking". SIGDIAL(2018) [[PDF]](./papers/dialogue-system/W18-5045.pdf)  :star::star::star::star:
 * **MTask**: "A Knowledge-Grounded Neural Conversation Model". AAAI(2018)  [[PDF]](./papers/dialogue-system/16710-76819-1-PB.pdf) :star::star::star:
@@ -47,7 +51,7 @@ Paper reading list in natural language processing.
 * **DAWnet**: "Chat More: Deepening and Widening the Chatting Topic via A Deep Model". SIGIR(2018) [[PDF]](./papers/dialogue-system/p255-wang.pdf) [[code]](https://sigirdawnet.wixsite.com/dawnet) :star::star::star::star::star:
 * **ZSDG**: "Zero-Shot Dialog Generation with Cross-Domain Latent Actions". SIGDIAL(2018) [[PDF]](./papers/dialogue-system/W18-5001.pdf) [[code]](https://github.com/snakeztc/NeuralDialog-ZSDG) :star::star::star::star::star:
 * **DUA**: "Modeling Multi-turn Conversation with Deep Utterance Aggregation". COLING(2018) [[PDF]](./papers/dialogue-system/C18-1317.pdf) [[code]](https://github.com/cooelf/DeepUtteranceAggregation) :star::star::star::star:
-* **Data-Augmentation**: "Sequence-to-Sequence Data Augmentation for Dialogue Language Understanding". COLING(2018) [[PDF]](./papers/dialogue-system/C18-1105.pdf) [[code]](https://github.com/AtmaHou/Seq2SeqDataAugmentationForLU) :star::star::star::star:
+* **Data-Aug**: "Sequence-to-Sequence Data Augmentation for Dialogue Language Understanding". COLING(2018) [[PDF]](./papers/dialogue-system/C18-1105.pdf) [[code]](https://github.com/AtmaHou/Seq2SeqDataAugmentationForLU) :star::star::star::star:
 * **DSR**: "Sequence-to-Sequence Learning for Task-oriented Dialogue with Dialogue State Representation". COLING(2018)  [[PDF]](./papers/dialogue-system/C18-1320.pdf) :star::star::star::star:
 * **DC-MMI**: "Generating More Interesting Responses in Neural Conversation Models with Distributional Constraints". EMNLP(2018) [[PDF]](./papers/dialogue-system/D18-1431.pdf) [[code]](https://github.com/abaheti95/DC-NeuralConversation) :star::star::star::star:
 * **StateNet**: "Towards Universal Dialogue State Tracking". EMNLP(2018) [[PDF]](./papers/dialogue-system/D18-1299.pdf) :star::star::star::star:
@@ -71,15 +75,14 @@ Paper reading list in natural language processing.
 * **Retrieval+multi-seq2seq**: "An Ensemble of Retrieval-Based and Generation-Based Human-Computer Conversation Systems". IJCAI(2018) [[PDF]](./papers/dialogue-system/IJCAI-0609.pdf) :star::star::star::star:
 
 ## Text Summarization
-* **MacNet**: "MacNet: Transferring Knowledge from Machine
-Comprehension to Sequence-to-Sequence Models". NIPS(2018) [[PDF]](./papers/text-summarization/7848-macnet.pdf) :star::star::star::star::star:
+* **BERT-Two-Stage**: "Pretraining-Based Natural Language Generation for Text Summarization". arXiv(2019)  [[PDF]](./papers/text-summarization/1902.09243.pdf) :star::star::star:
 * **Re^3Sum**: "Retrieve, Rerank and Rewrite: Soft Template Based Neural Summarization". ACL(2018) [[PDF]](./papers/text-summarization/P18-1015.pdf) [[code]](http://www4.comp.polyu.edu.hk/~cszqcao/data/IRSum_Resource.zip) :star::star::star::star::star:
 * **NeuSum**: "Neural Document Summarization by Jointly Learning to Score and Select Sentences". ACL(2018) [[PDF]](./papers/text-summarization/P18-1061.pdf) :star::star::star::star::star:
 * **rnn-ext+abs+RL+rerank**: "Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting". ACL(2018) [[PDF]](./papers/text-summarization/P18-1063.pdf) [[code]](https://github.com/ChenRocks/fast_abs_rl) :star::star::star::star::star:
 * **Seq2Seq+CGU**: "Global Encoding for Abstractive Summarization". ACL(2018) [[PDF]](./papers/text-summarization/P18-2027.pdf) [[code]](https://github.com/lancopku/Global-Encoding) :star::star::star::star:
 * **T-ConvS2S**: "Don’t Give Me the Details, Just the Summary! Topic-Aware Convolutional Neural Networks for Extreme Summarization". EMNLP(2018) [[PDF]](./papers/text-summarization/D18-1206.pdf) [[code]](https://github.com/shashiongithub/XSum) :star::star::star::star::star:
-* **GAN for TextSum**: "Generative Adversarial Network for Abstractive Text Summarization". AAAI (2018) [[PDF]](./papers/text-summarization/16238-77257-1-PB.pdf) :star::star::star:
 * **Reinforced-Topic-ConvS2S**: "A reinforced topic-aware convolutional sequence-to-sequence model for abstractive text summarization." IJCAI (2018) [[PDF]](./papers/text-summarization/0619.pdf) :star::star::star::star::star:
+* **GANsum**: "Generative Adversarial Network for Abstractive Text Summarization". AAAI (2018) [[PDF]](./papers/text-summarization/16238-77257-1-PB.pdf) :star::star::star:
 * **FTSum**: "Faithful to the Original: Fact Aware Neural Abstractive Summarization". AAAI(2018) [[PDF]](./papers/text-summarization/16121-76767-1-PB.pdf) :star::star::star::star:
 * **PGN**: "Get To The Point: Summarization with Pointer-Generator Networks". ACL (2017) [[PDF]](./papers/text-summarization/P17-1099.pdf) [[code]](https://github.com/abisee/pointer-generator) :star::star::star::star::star:
 * **ABS/ABS+**: "A Neural Attention Model for Abstractive Sentence Summarization". EMNLP (2015) [[PDF]](./papers/text-summarization/D15-1044.pdf) :star::star::star::star:
@@ -88,6 +91,7 @@ Comprehension to Sequence-to-Sequence Models". NIPS(2018) [[PDF]](./papers/text-
 
 ## Topic Modeling
 * **LDA**: "Latent Dirichlet Allocation". JMLR (2003) [[PDF]](./papers/topic-modeling/JMLR03_LDA_BleiNgJordan.pdf) [[code]](https://github.com/blei-lab/lda-c) :star::star::star::star::star:
+* **Parameter Estimation**: "Parameter estimation for text analysis." Technical report (2005). [[PDF]](./papers/topic-modeling/Parameter_estimation_for_text_analysis.pdf) :star::star::star::star:
 * **DTM**: "Dynamic Topic Models". ICML (2006) [[PDF]](./papers/topic-modeling/ICML06_DTM.pdf) [[code]](https://github.com/blei-lab/dtm) :star::star::star:
 * **cDTM**: "Continuous Time Dynamic Topic Models". arXiv (2012) [[PDF]](./papers/topic-modeling/arXiv12_cDTM.pdf) :star::star:
 * **NTM**: "A Novel Neural Topic Model and Its Supervised Extension". AAAI (2015) [[PDF]](./papers/topic-modeling/AAAI15_NTM.pdf) :star::star::star::star:
@@ -105,13 +109,11 @@ Comprehension to Sequence-to-Sequence Models". NIPS(2018) [[PDF]](./papers/text-
 * **NMF boosted**: "Stability of topic modeling via matrix factorization". Expert Syst. Appl. (2018) [[PDF]](./papers/topic-modeling/ESA18_Stability_of_topic_modeling_via_matrix_factorization.pdf) :star::star::star:
 * **Evaluation of Topic Models**: "External Evaluation of Topic Models". Australasian Doc. Comp. Symp. (2009) [[PDF]](./papers/topic-modeling/External_Evaluation_of_Topic_Models.pdf) :star::star:
 * **Topic2Vec**: "Topic2Vec: Learning distributed representations of topics". IALP (2015) [[PDF]](./papers/topic-modeling/IALP15_Topic2Vec.pdf) :star::star::star:
-* **Short text + Word embedding**: "Topic Discovery for Short Texts Using Word Embeddings". ICDM (2016) [[PDF]](./papers/topic-modeling/ICDE16_Topic_Discovery_for_Short_Texts_Using_Word_Embeddings.pdf) :star::star::star:
 * **L-EnsNMF**: "L-EnsNMF: Boosted Local Topic Discovery via Ensemble of Nonnegative Matrix Factorization". ICDM (2016) [[PDF]](./papers/topic-modeling/ICDM16_L-EnsNMF.pdf) [[code]](https://github.com/sanghosuh/lens_nmf-matlab) :star::star::star::star::star:
 * **DC-NMF**: "DC-NMF: nonnegative matrix factorization based on divide-and-conquer for fast clustering and topic modeling". J. Global Optimization (2017) [[PDF]](./papers/topic-modeling/JGO17_DC_NMF.pdf) :star::star::star::star:
 * **cFTM**: "The contextual focused topic model". KDD (2012) [[PDF]](./papers/topic-modeling/KDD12_cFTM.pdf) :star::star::star::star:
 * **CLM**: "Collaboratively Improving Topic Discovery and Word Embeddings by Coordinating Global and Local Contexts". KDD (2017) [[PDF]](./papers/topic-modeling/KDD17_CLM.pdf) [[code]](https://github.com/XunGuangxu/2in1) :star::star::star::star::star:
 * **GMTM**: "Unsupervised Topic Modeling for Short Texts Using Distributed Representations of Words". NAACL (2015) [[PDF]](./papers/topic-modeling/NAACL15_GMTM.pdf) :star::star::star::star:
-* **Parameter Estimation**: "Parameter estimation for text analysis." Technical report (2005). [[PDF]](./papers/topic-modeling/Parameter_estimation_for_text_analysis.pdf) :star::star::star::star:
 * **GPU-PDMM**: "Enhancing Topic Modeling for Short Texts with Auxiliary Word Embeddings". TOIS (2017) [[PDF]](./papers/topic-modeling/TOIS17_GPU-PDMM.pdf) :star::star::star::star:
 * **BPT**: "A Two-Level Topic Model Towards Knowledge Discovery from Citation Networks". TKDE (2014) [[PDF]](./papers/topic-modeling/TKDE14_BPT.pdf) :star::star::star::star::star:
 * **BTM**: "A Biterm Topic Model for Short Texts". WWW (2013) [[PDF]](./papers/topic-modeling/WWW13_BTM.pdf) [[code]](https://github.com/xiaohuiyan/BTM) :star::star::star::star:

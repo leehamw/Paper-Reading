@@ -16,6 +16,7 @@ Paper reading list in natural language processing.
 * **ELMo**: "Deep contextualized word representations". NAACL(2018) [[PDF]](./papers/deep-learning/N18-1202.pdf)
 * **Survey on Attention**: "An Introductory Survey on Attention Mechanisms in NLP Problems". arXiv(2018) [[PDF]](./papers/deep-learning/1811.05544.pdf)
 * **Transformer**: "Attention is All you Need". NIPS(2017) [[PDF]](./papers/deep-learning/7181-attention-is-all-you-need.pdf) [[code-official]](https://github.com/tensorflow/tensor2tensor) [[code-tf]](https://github.com/Kyubyong/transformer) [[code-py]](https://github.com/jadore801120/attention-is-all-you-need-pytorch)
+* **ConvS2S**: "Convolutional Sequence to Sequence Learning". ICML(2017) [[PDF]](./papers/deep-learning/gehring17a-convs2s.pdf)
 * **Additive Attention**: "Neural Machine Translation by Jointly Learning to Align and Translate". ICLR(2015) [[PDF]](./papers/deep-learning/1409.0473-nmt-align.pdf) 
 * **Multiplicative Attention**: "Effective Approaches to Attention-based Neural Machine Translation". EMNLP(2015) [[PDF]](./papers/deep-learning/D15-1166.pdf)
 * **Memory Network**: "End-To-End Memory Networks". NIPS(2015) [[PDF]](./papers/deep-learning/5846-end-to-end-memory-networks.pdf)

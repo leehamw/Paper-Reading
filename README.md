@@ -19,9 +19,10 @@ Paper reading list in natural language processing.
 * **ConvS2S**: "Convolutional Sequence to Sequence Learning". ICML(2017) [[PDF]](./papers/deep-learning/gehring17a-convs2s.pdf)
 * **Additive Attention**: "Neural Machine Translation by Jointly Learning to Align and Translate". ICLR(2015) [[PDF]](./papers/deep-learning/1409.0473-nmt-align.pdf) 
 * **Multiplicative Attention**: "Effective Approaches to Attention-based Neural Machine Translation". EMNLP(2015) [[PDF]](./papers/deep-learning/D15-1166.pdf)
-* **Memory Network**: "End-To-End Memory Networks". NIPS(2015) [[PDF]](./papers/deep-learning/5846-end-to-end-memory-networks.pdf)
-* **Pointer Network**: "Pointer Networks". NIPS(2015) [[PDF]](./papers/deep-learning/5866-pointer-networks.pdf) 
-* **Copying Mechanism**: "Incorporating Copying Mechanism in Sequence-to-Sequence Learning". ACL(2016) [[PDF]](./papers/deep-learning/P16-1154.pdf) 
+* **Memory Net**: "End-To-End Memory Networks". NIPS(2015) [[PDF]](./papers/deep-learning/5846-end-to-end-memory-networks.pdf)
+* **Pointer Net**: "Pointer Networks". NIPS(2015) [[PDF]](./papers/deep-learning/5866-pointer-networks.pdf) 
+* **Copying Mechanism**: "Incorporating Copying Mechanism in Sequence-to-Sequence Learning". ACL(2016) [[PDF]](./papers/deep-learning/P16-1154.pdf)
+* **Coverage Mechanism**: "Modeling Coverage for Neural Machine Translation". ACL(2016) [[PDF]](./papers/deep-learning/P16-1008.pdf)
 * **GAN**: "Generative Adversarial Nets". NIPS(2014) [[PDF]](./papers/deep-learning/5423-generative-adversarial-nets.pdf)
 * **SeqGAN**: "SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient". AAAI(2017) [[PDF]](./papers/deep-learning/14344-66977-1-PB.pdf) [[code]](https://github.com/LantaoYu/SeqGAN)
 * **MacNet**: "MacNet: Transferring Knowledge from Machine
@@ -82,10 +83,10 @@ Comprehension to Sequence-to-Sequence Models". NIPS(2018) [[PDF]](./papers/text-
 * **rnn-ext+abs+RL+rerank**: "Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting". ACL(2018) [[PDF]](./papers/text-summarization/P18-1063.pdf) [[code]](https://github.com/ChenRocks/fast_abs_rl) :star::star::star::star::star:
 * **Seq2Seq+CGU**: "Global Encoding for Abstractive Summarization". ACL(2018) [[PDF]](./papers/text-summarization/P18-2027.pdf) [[code]](https://github.com/lancopku/Global-Encoding) :star::star::star::star:
 * **T-ConvS2S**: "Don’t Give Me the Details, Just the Summary! Topic-Aware Convolutional Neural Networks for Extreme Summarization". EMNLP(2018) [[PDF]](./papers/text-summarization/D18-1206.pdf) [[code]](https://github.com/shashiongithub/XSum) :star::star::star::star::star:
-* **Reinforced-Topic-ConvS2S**: "A reinforced topic-aware convolutional sequence-to-sequence model for abstractive text summarization." IJCAI (2018) [[PDF]](./papers/text-summarization/0619.pdf) :star::star::star::star::star:
+* **RL-Topic-ConvS2S**: "A reinforced topic-aware convolutional sequence-to-sequence model for abstractive text summarization." IJCAI (2018) [[PDF]](./papers/text-summarization/0619.pdf) :star::star::star::star::star:
 * **GANsum**: "Generative Adversarial Network for Abstractive Text Summarization". AAAI (2018) [[PDF]](./papers/text-summarization/16238-77257-1-PB.pdf) :star::star::star:
 * **FTSum**: "Faithful to the Original: Fact Aware Neural Abstractive Summarization". AAAI(2018) [[PDF]](./papers/text-summarization/16121-76767-1-PB.pdf) :star::star::star::star:
-* **PGN**: "Get To The Point: Summarization with Pointer-Generator Networks". ACL (2017) [[PDF]](./papers/text-summarization/P17-1099.pdf) [[code]](https://github.com/abisee/pointer-generator) :star::star::star::star::star:
+* **PGC**: "Get To The Point: Summarization with Pointer-Generator Networks". ACL (2017) [[PDF]](./papers/text-summarization/P17-1099.pdf) [[code]](https://github.com/abisee/pointer-generator) :star::star::star::star::star:
 * **ABS/ABS+**: "A Neural Attention Model for Abstractive Sentence Summarization". EMNLP (2015) [[PDF]](./papers/text-summarization/D15-1044.pdf) :star::star::star::star:
 * **RAS-Elman/RAS-LSTM**: "Abstractive Sentence Summarization with Attentive Recurrent Neural Networks. HLT-NAACL (2016) [[PDF]](./papers/text-summarization/N16-1012.pdf) [[code]](https://github.com/facebookarchive/NAMAS)  :star::star::star::star:
 * **words-lvt2k-1sent**: "Abstractive Text Summarization using Sequence-to-sequence RNNs and Beyond". CoNLL (2016) [[PDF]](./papers/text-summarization/K16-1028.pdf) :star::star::star::star:

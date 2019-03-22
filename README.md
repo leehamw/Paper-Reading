@@ -30,7 +30,8 @@ Comprehension to Sequence-to-Sequence Models". NIPS(2018) [[PDF]](./papers/text-
 * **Graph2Seq**: "Graph2Seq: Graph to Sequence Learning with Attention-based Neural Networks". arXiv(2018) [[PDF]](./papers/deep-learning/1804.00823-graph2seq.pdf)
 * **Pretrained Seq2Seq**: "Unsupervised Pretraining for Sequence to Sequence Learning". EMNLP(2017) [[PDF]](./papers/deep-learning/D17-1039.pdf)
 * **Multi-task Learning**: "An Overview of Multi-Task Learning in Deep Neural Networks". arXiv(2017) [[PDF]](./papers/deep-learning/1706.05098.pdf)
-* **Sluice network**: "Latent Multi-task Architecture Learning". AAAI(2019) [[PDF]](./papers/deep-learning/1705.08142.pdf) [[code]]()
+* **Latent Multi-task**: "Latent Multi-task Architecture Learning". AAAI(2019) [[PDF]](./papers/deep-learning/1705.08142.pdf) [[code]](https://github.com/sebastianruder/sluice-networks)
+* **Multi-domain multi-task**: "A Unified Perspective on Multi-Domain and Multi-Task Learning". ICLR(2015) [[PDF]](./papers/deep-learning/1412.7489.pdf)
 
 ## Dialogue System
 * **Survey of Dialogue Corpora**: "A Survey of Available Corpora For Building Data-Driven Dialogue Systems: The Journal Version". Dialogue & Discourse(2018) [[PDF]](./papers/dialogue-system/3690-7705-1-PB.pdf) :star::star::star:
@@ -135,4 +136,5 @@ Complex Query Graphs". EMNLP(2018) [[PDF]](./papers/question-answering/D18-1242.
 
 ## Image Captioning
 * **MLAIC**: "A Multi-task Learning Approach for Image Captioning". IJCAI(2018) [[PDF]](./papers/image-captioning/2018-ijcai-multitask-final.pdf) [[code]](https://github.com/andyweizhao/Multitask_Image_Captioning) :star::star::star::star:
+* **Up-Down Attention**: "Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering". CVPR(2018) [[PDF]](./papers/image-captioning/Bottom-Up_and_Top-Down_CVPR_2018_paper.pdf) :star::star::star::star::star:
 * **Recurrent-RSA**: "Pragmatically Informative Image Captioning with Character-Level Inference". NAACL(2018) [[PDF]](./papers/image-captioning/NAACL18-incremental-RSA.pdf) [[code]](https://github.com/reubenharry/Recurrent-RSA) :star::star::star::star:

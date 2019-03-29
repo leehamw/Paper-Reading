@@ -12,10 +12,11 @@ Paper reading list in natural language processing.
 ***
 
 ## Deep Learning in NLP
-* **BERT**: "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding". arXiv(2018) [[PDF]](./papers/deep-learning/1810.04805.pdf) [[code]](https://github.com/google-research/bert)
+* **BERT**: "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding". NAACL(2019) [[PDF]](./papers/deep-learning/1810.04805.pdf) [[code]](https://github.com/google-research/bert)
 * **ELMo**: "Deep contextualized word representations". NAACL(2018) [[PDF]](./papers/deep-learning/N18-1202.pdf)
 * **Survey on Attention**: "An Introductory Survey on Attention Mechanisms in NLP Problems". arXiv(2018) [[PDF]](./papers/deep-learning/1811.05544.pdf)
 * **Transformer**: "Attention is All you Need". NIPS(2017) [[PDF]](./papers/deep-learning/7181-attention-is-all-you-need.pdf) [[code-official]](https://github.com/tensorflow/tensor2tensor) [[code-tf]](https://github.com/Kyubyong/transformer) [[code-py]](https://github.com/jadore801120/attention-is-all-you-need-pytorch)
+* **Transformer-XL**: "Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context". arXiv(2019) [[PDF]](./papers/deep-learning/1901.02860.pdf) [[code]](https://github.com/kimiyoung/transformer-xl)
 * **ConvS2S**: "Convolutional Sequence to Sequence Learning". ICML(2017) [[PDF]](./papers/deep-learning/gehring17a-convs2s.pdf)
 * **Additive Attention**: "Neural Machine Translation by Jointly Learning to Align and Translate". ICLR(2015) [[PDF]](./papers/deep-learning/1409.0473-nmt-align.pdf) 
 * **Multiplicative Attention**: "Effective Approaches to Attention-based Neural Machine Translation". EMNLP(2015) [[PDF]](./papers/deep-learning/D15-1166.pdf)
@@ -35,10 +36,12 @@ Comprehension to Sequence-to-Sequence Models". NIPS(2018) [[PDF]](./papers/text-
 
 ## Dialogue System
 * **Survey of Dialogue Corpora**: "A Survey of Available Corpora For Building Data-Driven Dialogue Systems: The Journal Version". Dialogue & Discourse(2018) [[PDF]](./papers/dialogue-system/3690-7705-1-PB.pdf) :star::star::star:
-* **Two-Stage-Transformer**: "Wizard of Wikipedia: Knowledge-Powered Conversational agents". ICLR(2019) [[PDF]](./papers/dialogue-system/1811.01241.pdf) :star::star::star::star:
+* **PostKS**: "Learning to Select Knowledge for Response Generation in Dialog Systems". arXiv(2019) [[PDF]](./papers/dialogue-system/1902.04911.pdf) :star::star::star::star:
+* **GLMP**: "Global-to-local Memory Pointer Networks for Task-Oriented Dialogue". ICLR(2019) [[PDF]](./papers/dialogue-system/1901.04713.pdf) [[code]](https://github.com/jasonwu0731/GLMP) :star::star::star::star:
+* **Two-Stage-Transformer**: "Wizard of Wikipedia: Knowledge-Powered Conversational agents". ICLR(2019) [[PDF]](./papers/dialogue-system/1811.01241.pdf) :star::star::star:
 * **Edit-N-Rerank**: "Response Generation by Context-aware Prototype Editing". AAAI(2019) [[PDF]](./papers/dialogue-system/1806.07042.pdf) [[code]](https://github.com/MarkWuNLP/ResponseEdit) :star::star::star::star:
 * **D2A**: "Dialog-to-Action: Conversational Question Answering Over a Large-Scale Knowledge Base". NIPS(2018) [[PDF]](./papers/dialogue-system/7558-dialog-to-action.pdf) :star::star::star::star:
-* **DAIM**: "Generating Informative and Diverse Conversational Responses via Adversarial Information Maximization". NIPS(2018) [[PDF]](./papers/dialogue-system/7452-generating-informative.pdf) :star::star::star::star::star:
+* **DAIM**: "Generating Informative and Diverse Conversational Responses via Adversarial Information Maximization". NIPS(2018) [[PDF]](./papers/dialogue-system/7452-generating-informative.pdf) :star::star::star::star:
 * **LU-DST**: "Multi-task Learning for Joint Language Understanding and Dialogue State Tracking". SIGDIAL(2018) [[PDF]](./papers/dialogue-system/W18-5045.pdf)  :star::star::star::star:
 * **MTask**: "A Knowledge-Grounded Neural Conversation Model". AAAI(2018)  [[PDF]](./papers/dialogue-system/16710-76819-1-PB.pdf) :star::star::star:
 * **MTask-M**: "Multi-Task Learning for Speaker-Role Adaptation in Neural Conversation Models". IJCNLP(2018) [[PDF]](./papers/dialogue-system/I17-1061.pdf) :star::star::star:

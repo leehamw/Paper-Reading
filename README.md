@@ -1,13 +1,14 @@
 ﻿# Paper-Reading
 Paper reading list in natural language processing.
 
-- [Deep Learning in NLP](#deep-learning-in-nlp)
-- [Dialogue System](#dialogue-system)
-- [Text Summarization](#text-summarization)
-- [Topic Modeling](#topic-modeling)
-- [Machine Translation](#machine-translation)
-- [Question Answering](#question-answering)
-- [Image Captioning](#image-captioning)
+- [Paper-Reading](#paper-reading)
+  - [Deep Learning in NLP](#deep-learning-in-nlp)
+  - [Dialogue System](#dialogue-system)
+  - [Text Summarization](#text-summarization)
+  - [Topic Modeling](#topic-modeling)
+  - [Machine Translation](#machine-translation)
+  - [Question Answering](#question-answering)
+  - [Image Captioning](#image-captioning)
 
 ***
 
@@ -63,6 +64,7 @@ Comprehension to Sequence-to-Sequence Models". NIPS(2018) [[PDF]](./papers/text-
 * **StateNet**: "Towards Universal Dialogue State Tracking". EMNLP(2018) [[PDF]](./papers/dialogue-system/D18-1299.pdf) :star::star::star::star:
 * **cVAE-XGate/CGate**: "Better Conversations by Modeling, Filtering, and Optimizing for Coherence and Diversity". EMNLP(2018) [[PDF]](./papers/dialogue-system/D18-1432.pdf) [[code]](https://github.com/XinnuoXu/CVAE_Dial) :star::star::star::star::star:
 * **SMN**: "Sequential Matching Network: A New Architecture for Multi-turn Response Selection in Retrieval-Based Chatbots". ACL(2017) [[PDF]](./papers/dialogue-system/P17-1046.pdf)  [[code]](https://github.com/MarkWuNLP/MultiTurnResponseSelection) :star::star::star::star::star:
+* **KVR Net**: "Key-Value Retrieval Networks for Task-Oriented Dialogue". SIGDIAL(2017) [[PDF]](./papers/dialogue-system/W17-5506.pdf) [[data]](https://nlp.stanford.edu/blog/a-new-multi-turn-multi-domain-task-oriented-dialogue-dataset/) :star::star::star::star:
 * **MMI**: "A Diversity-Promoting Objective Function for Neural Conversation Models". NAACL-HLT(2016)  [[PDF]](./papers/dialogue-system/N16-1014.pdf) [[code]](https://github.com/jiweil/Neural-Dialogue-Generation) :star::star::star:
 * **RL-Dialogue**: "Deep Reinforcement Learning for Dialogue Generation". EMNLP(2016) [[PDF]](./papers/dialogue-system/D16-1127.pdf) :star::star::star::star:
 * **TA-Seq2Seq**: "Topic Aware Neural Response Generation". AAAI(2017) [[PDF]](./papers/dialogue-system/AAAI17_TA-Seq2Seq.pdf) [[code]](https://github.com/LynetteXing1991/TA-Seq2Seq) :star::star::star::star:
@@ -129,6 +131,7 @@ Comprehension to Sequence-to-Sequence Models". NIPS(2018) [[PDF]](./papers/text-
 ## Machine Translation
 * **Deliberation Networks**: "Deliberation Networks: Sequence Generation Beyond One-Pass Decoding". NIPS(2017) [[PDF]](./papers/machine-translation/6775-deliberation-networks.pdf) :star::star::star::star:
 * **Multi-pass decoder**: "Adaptive Multi-pass Decoder for Neural Machine Translation". EMNLP(2018) [[PDF]](./papers/machine-translation/Multi-pass-decoder.pdf) :star::star::star::star:
+* **KVMem-Attention**: "Neural Machine Translation with Key-Value Memory-Augmented Attention". IJCAI(2018) [[PDF]](./papers/machine-translation/IJCAI-0357.pdf) :star::star::star::star:
 
 ## Question Answering
 * **MTQA**: "Multi-Task Learning with Multi-View Attention for Answer Selection and Knowledge Base Question Answering". AAAI(2019) [[PDF]](./papers/question-answering/1812.02354.pdf) [[code]](https://github.com/dengyang17/MTQA) :star::star::star::star:
@@ -136,6 +139,7 @@ Comprehension to Sequence-to-Sequence Models". NIPS(2018) [[PDF]](./papers/text-
 Complex Query Graphs". EMNLP(2018) [[PDF]](./papers/question-answering/D18-1242.pdf) [[code]](http://202.120.38.146/CompQA/) :star::star::star::star::star:
 * **HR-BiLSTM**: "Improved Neural Relation Detection for Knowledge Base Question Answering". ACL(2017) [[PDF]](./papers/question-answering/P17-1053.pdf) :star::star::star::star:
 * **KBQA-CGK**: "An End-to-End Model for Question Answering over Knowledge Base with Cross-Attention Combining Global Knowledge". ACL(2017) [[PDF]](./papers/question-answering/P17-1021.pdf) :star::star::star::star:
+* **KVMem**: "Key-Value Memory Networks for Directly Reading Documents". EMNLP(2016) [[PDF]](./papers/question-answering/D16-1147.pdf) :star::star::star::star:
 
 ## Image Captioning
 * **MLAIC**: "A Multi-task Learning Approach for Image Captioning". IJCAI(2018) [[PDF]](./papers/image-captioning/2018-ijcai-multitask-final.pdf) [[code]](https://github.com/andyweizhao/Multitask_Image_Captioning) :star::star::star::star:

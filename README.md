@@ -1,6 +1,7 @@
 ﻿# Paper-Reading
 Paper reading list in natural language processing.
 
+
 - [Paper-Reading](#paper-reading)
   - [Deep Learning in NLP](#deep-learning-in-nlp)
   - [Dialogue System](#dialogue-system)
@@ -8,6 +9,7 @@ Paper reading list in natural language processing.
   - [Topic Modeling](#topic-modeling)
   - [Machine Translation](#machine-translation)
   - [Question Answering](#question-answering)
+  - [Machine Comprehension](#machine-comprehension)
   - [Image Captioning](#image-captioning)
 
 ***
@@ -140,6 +142,9 @@ Complex Query Graphs". EMNLP(2018) [[PDF]](./papers/question-answering/D18-1242.
 * **HR-BiLSTM**: "Improved Neural Relation Detection for Knowledge Base Question Answering". ACL(2017) [[PDF]](./papers/question-answering/P17-1053.pdf) :star::star::star::star:
 * **KBQA-CGK**: "An End-to-End Model for Question Answering over Knowledge Base with Cross-Attention Combining Global Knowledge". ACL(2017) [[PDF]](./papers/question-answering/P17-1021.pdf) :star::star::star::star:
 * **KVMem**: "Key-Value Memory Networks for Directly Reading Documents". EMNLP(2016) [[PDF]](./papers/question-answering/D16-1147.pdf) :star::star::star::star:
+
+## Machine Comprehension
+* **FlowQA**: "FlowQA: Grasping Flow in History for Conversational Machine Comprehension". ICLR(2019) [[PDF]](./papers/machine-comprehension/1810.06683.pdf) [[code]](https://github.com/momohuang/FlowQA) :star::star::star::star:
 
 ## Image Captioning
 * **MLAIC**: "A Multi-task Learning Approach for Image Captioning". IJCAI(2018) [[PDF]](./papers/image-captioning/2018-ijcai-multitask-final.pdf) [[code]](https://github.com/andyweizhao/Multitask_Image_Captioning) :star::star::star::star:

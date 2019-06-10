@@ -87,6 +87,7 @@ Comprehension to Sequence-to-Sequence Models". NIPS(2018) [[PDF]](./papers/text-
 
 ## Text Summarization
 * **BERT-Two-Stage**: "Pretraining-Based Natural Language Generation for Text Summarization". arXiv(2019)  [[PDF]](./papers/text-summarization/1902.09243.pdf) :star::star::star:
+* **QASumm**: "Guiding Extractive Summarization with Question-Answering Rewards". NAACL(2019) [[PDF]](./papers/text-summarization/N19-1264.pdf) [[code]](https://github.com/ucfnlp/summ_qa_rewards) :star::star::star::star:
 * **Re^3Sum**: "Retrieve, Rerank and Rewrite: Soft Template Based Neural Summarization". ACL(2018) [[PDF]](./papers/text-summarization/P18-1015.pdf) [[code]](http://www4.comp.polyu.edu.hk/~cszqcao/data/IRSum_Resource.zip) :star::star::star::star:
 * **NeuSum**: "Neural Document Summarization by Jointly Learning to Score and Select Sentences". ACL(2018) [[PDF]](./papers/text-summarization/P18-1061.pdf) :star::star::star::star:
 * **rnn-ext+abs+RL+rerank**: "Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting". ACL(2018) [[PDF]](./papers/text-summarization/P18-1063.pdf) [[code]](https://github.com/ChenRocks/fast_abs_rl) :star::star::star::star::star:

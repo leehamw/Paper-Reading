@@ -15,7 +15,8 @@ Paper reading list in natural language processing.
 ***
 
 ## Deep Learning in NLP
-* **BERT**: "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding". NAACL(2019) [[PDF]](./papers/deep-learning/1810.04805.pdf) [[code]](https://github.com/google-research/bert)
+* **BERT**: "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding". NAACL(2019) [[PDF]](./papers/deep-learning/N19-1423.pdf) [[code]](https://github.com/google-research/bert)
+* **CNM**: "CNM: An Interpretable Complex-valued Network for Matching". NAACL(2019) [[PDF]](./papers/deep-learning/N19-1420.pdf) [[code]](https://github.com/wabyking/qnn)
 * **ELMo**: "Deep contextualized word representations". NAACL(2018) [[PDF]](./papers/deep-learning/N18-1202.pdf)
 * **Survey on Attention**: "An Introductory Survey on Attention Mechanisms in NLP Problems". arXiv(2018) [[PDF]](./papers/deep-learning/1811.05544.pdf)
 * **Transformer**: "Attention is All you Need". NIPS(2017) [[PDF]](./papers/deep-learning/7181-attention-is-all-you-need.pdf) [[code-official]](https://github.com/tensorflow/tensor2tensor) [[code-tf]](https://github.com/Kyubyong/transformer) [[code-py]](https://github.com/jadore801120/attention-is-all-you-need-pytorch)
@@ -35,7 +36,7 @@ Comprehension to Sequence-to-Sequence Models". NIPS(2018) [[PDF]](./papers/text-
 * **Pretrained Seq2Seq**: "Unsupervised Pretraining for Sequence to Sequence Learning". EMNLP(2017) [[PDF]](./papers/deep-learning/D17-1039.pdf)
 * **Multi-task Learning**: "An Overview of Multi-Task Learning in Deep Neural Networks". arXiv(2017) [[PDF]](./papers/deep-learning/1706.05098.pdf)
 * **Latent Multi-task**: "Latent Multi-task Architecture Learning". AAAI(2019) [[PDF]](./papers/deep-learning/1705.08142.pdf) [[code]](https://github.com/sebastianruder/sluice-networks)
-* **Multi-domain multi-task**: "A Unified Perspective on Multi-Domain and Multi-Task Learning". ICLR(2015) [[PDF]](./papers/deep-learning/1412.7489.pdf)
+
 
 ## Dialogue System
 * **Survey of Dialogue Corpora**: "A Survey of Available Corpora For Building Data-Driven Dialogue Systems: The Journal Version". Dialogue & Discourse(2018) [[PDF]](./papers/dialogue-system/3690-7705-1-PB.pdf) :star::star::star:

@@ -40,6 +40,9 @@ Comprehension to Sequence-to-Sequence Models". NIPS(2018) [[PDF]](./papers/text-
 
 
 ## Dialogue System
+* **TRADE**: "Transferable Multi-Domain State Generator for Task-Oriented
+Dialogue Systems". ACL(2019) [[PDF]](./papers/dialogue-system/1905.08743.pdf) [[code]](https://github.com/jasonwu0731/trade-dst) :star::star::star::star:
+* **PAML**: "Personalizing Dialogue Agents via Meta-Learning". ACL(2019) [[PDF]](./papers/dialogue-system/1905.10033.pdf) [[code]](https://github.com/HLTCHKUST/PAML) :star::star::star:
 * **Pretrain-Fine-tune**: "Training Neural Response Selection for Task-Oriented Dialogue Systems". ACL(2019) [[PDF]](./papers/dialogue-system/1906.01543.pdf) [[data]](https://github.com/PolyAI-LDN/conversational-datasets) :star::star::star:
 * **PostKS**: "Learning to Select Knowledge for Response Generation in Dialog Systems". arXiv(2019) [[PDF]](./papers/dialogue-system/1902.04911.pdf) :star::star:
 * **GLMP**: "Global-to-local Memory Pointer Networks for Task-Oriented Dialogue". ICLR(2019) [[PDF]](./papers/dialogue-system/1901.04713.pdf) [[code]](https://github.com/jasonwu0731/GLMP) :star::star::star::star:

@@ -145,6 +145,7 @@ Dialogue Systems". ACL(2019) [[PDF]](./papers/dialogue-system/1905.08743.pdf) [[
 * **Deliberation Networks**: "Deliberation Networks: Sequence Generation Beyond One-Pass Decoding". NIPS(2017) [[PDF]](./papers/machine-translation/6775-deliberation-networks.pdf) :star::star::star:
 * **Multi-pass decoder**: "Adaptive Multi-pass Decoder for Neural Machine Translation". EMNLP(2018) [[PDF]](./papers/machine-translation/Multi-pass-decoder.pdf) :star::star::star:
 * **KVMem-Attention**: "Neural Machine Translation with Key-Value Memory-Augmented Attention". IJCAI(2018) [[PDF]](./papers/machine-translation/IJCAI-0357.pdf) :star::star::star:
+* **Interactive-Attention**: "Interactive Attention for Neural Machine Translation". COLING(2016) [[PDF]](./papers/machine-translation/C16-1205.pdf) :star::star::star:
 
 ## Question Answering
 * **CFC**: "Coarse-grain Fine-grain Coattention Network for Multi-evidence Question Answering". ICLR(2019) [[PDF]](./papers/question-answering/1901.00603.pdf) :star::star:

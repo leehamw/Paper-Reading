@@ -2,15 +2,15 @@
 Paper reading list in natural language processing.
 
 
-- [Paper-Reading](#paper-reading)
-  - [Deep Learning in NLP](#deep-learning-in-nlp)
-  - [Dialogue System](#dialogue-system)
-  - [Text Summarization](#text-summarization)
-  - [Topic Modeling](#topic-modeling)
-  - [Machine Translation](#machine-translation)
-  - [Question Answering](#question-answering)
-  - [Reading Comprehension](#reading-comprehension)
-  - [Image Captioning](#image-captioning)
+- [Paper-Reading](#Paper-Reading)
+  - [Deep Learning in NLP](#Deep-Learning-in-NLP)
+  - [Dialogue System](#Dialogue-System)
+  - [Text Summarization](#Text-Summarization)
+  - [Topic Modeling](#Topic-Modeling)
+  - [Machine Translation](#Machine-Translation)
+  - [Question Answering](#Question-Answering)
+  - [Reading Comprehension](#Reading-Comprehension)
+  - [Image Captioning](#Image-Captioning)
 
 ***
 
@@ -65,6 +65,8 @@ Dialogue Systems". ACL(2019) [[PDF]](./papers/dialogue-system/1905.08743.pdf) [[
 * **ADVMT**: "One “Ruler” for All Languages: Multi-Lingual Dialogue Evaluation with Adversarial Multi-Task Learning". IJCAI(2018) [[PDF]](./papers/dialogue-system/IJCAI-0616.pdf) :star::star:
 * **STD/HTD**: "Learning to Ask Questions in Open-domain Conversational Systems with Typed Decoders". ACL(2018) [[PDF]](./papers/dialogue-system/P18-1204.pdf) [[code]](https://github.com/victorywys/Learning2Ask_TypedDecoder) :star::star::star:
 * **CSF used**: "Generating Informative Responses with Controlled Sentence Function". ACL(2018) [[PDF]](./papers/dialogue-system/P18-1139.pdf) [[code]](https://github.com/kepei1106/SentenceFunction) :star::star::star:
+* **MAD**: "Memory-augmented Dialogue Management for
+Task-oriented Dialogue Systems". TOIS(2018) [[PDF]](./papers/dialogue-system/1805.00150.pdf) :star::star::star:
 * **Mem2Seq**: "Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems". ACL(2018) [[PDF]](./papers/dialogue-system/P18-1136.pdf) [[code]](https://github.com/HLTCHKUST/Mem2Seq) :star::star::star::star:
 * **NKD**: "Knowledge Diffusion for Neural Dialogue Generation". ACL(2018) [[PDF]](./papers/dialogue-system/P18-1138.pdf) [[data]](https://github.com/liushuman/neural-knowledge-diffusion) :star::star:
 * **DAWnet**: "Chat More: Deepening and Widening the Chatting Topic via A Deep Model". SIGIR(2018) [[PDF]](./papers/dialogue-system/p255-wang.pdf) [[code]](https://sigirdawnet.wixsite.com/dawnet) :star::star::star:

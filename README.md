@@ -18,11 +18,11 @@ Paper reading list in natural language processing.
 * **BERT**: "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding". NAACL(2019) [[PDF]](./papers/deep-learning/N19-1423.pdf) [[code]](https://github.com/google-research/bert)
 * **CNM**: "CNM: An Interpretable Complex-valued Network for Matching". NAACL(2019) [[PDF]](./papers/deep-learning/N19-1420.pdf) [[code]](https://github.com/wabyking/qnn)
 * **ELMo**: "Deep contextualized word representations". NAACL(2018) [[PDF]](./papers/deep-learning/N18-1202.pdf)
-* **Survey on Attention**: "An Introductory Survey on Attention Mechanisms in NLP Problems". arXiv(2018) [[PDF]](./papers/deep-learning/1811.05544.pdf)
 * **VAE**: "An Introduction to Variational Autoencoders". arXiv(2019) [[PDF]](./papers/deep-learning/1906.02691.pdf)
 * **Transformer**: "Attention is All you Need". NIPS(2017) [[PDF]](./papers/deep-learning/7181-attention-is-all-you-need.pdf) [[code-official]](https://github.com/tensorflow/tensor2tensor) [[code-tf]](https://github.com/Kyubyong/transformer) [[code-py]](https://github.com/jadore801120/attention-is-all-you-need-pytorch)
 * **Transformer-XL**: "Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context". arXiv(2019) [[PDF]](./papers/deep-learning/1901.02860.pdf) [[code]](https://github.com/kimiyoung/transformer-xl)
 * **ConvS2S**: "Convolutional Sequence to Sequence Learning". ICML(2017) [[PDF]](./papers/deep-learning/gehring17a-convs2s.pdf)
+* **Survey on Attention**: "An Introductory Survey on Attention Mechanisms in NLP Problems". arXiv(2018) [[PDF]](./papers/deep-learning/1811.05544.pdf)
 * **Additive Attention**: "Neural Machine Translation by Jointly Learning to Align and Translate". ICLR(2015) [[PDF]](./papers/deep-learning/1409.0473-nmt-align.pdf) 
 * **Multiplicative Attention**: "Effective Approaches to Attention-based Neural Machine Translation". EMNLP(2015) [[PDF]](./papers/deep-learning/D15-1166.pdf)
 * **Memory Net**: "End-To-End Memory Networks". NIPS(2015) [[PDF]](./papers/deep-learning/5846-end-to-end-memory-networks.pdf)
@@ -64,9 +64,10 @@ Dialogue Systems". ACL(2019) [[PDF]](./papers/dialogue-system/1905.08743.pdf) [[
 * **REASON**: "Dialog Generation Using Multi-turn Reasoning Neural Networks". NAACL(2018) [[PDF]](./papers/dialogue-system/N18-1186.pdf) :star::star::star:
 * **ADVMT**: "One “Ruler” for All Languages: Multi-Lingual Dialogue Evaluation with Adversarial Multi-Task Learning". IJCAI(2018) [[PDF]](./papers/dialogue-system/IJCAI-0616.pdf) :star::star:
 * **STD/HTD**: "Learning to Ask Questions in Open-domain Conversational Systems with Typed Decoders". ACL(2018) [[PDF]](./papers/dialogue-system/P18-1204.pdf) [[code]](https://github.com/victorywys/Learning2Ask_TypedDecoder) :star::star::star:
-* **CSF used**: "Generating Informative Responses with Controlled Sentence Function". ACL(2018) [[PDF]](./papers/dialogue-system/P18-1139.pdf) [[code]](https://github.com/kepei1106/SentenceFunction) :star::star::star:
+* **CSF**: "Generating Informative Responses with Controlled Sentence Function". ACL(2018) [[PDF]](./papers/dialogue-system/P18-1139.pdf) [[code]](https://github.com/kepei1106/SentenceFunction) :star::star::star:
 * **MAD**: "Memory-augmented Dialogue Management for
 Task-oriented Dialogue Systems". TOIS(2018) [[PDF]](./papers/dialogue-system/1805.00150.pdf) :star::star::star:
+* **TSCP**: "Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures". ACL(2018) [[PDF]](./papers/dialogue-system/P18-1133.pdf) [[code]](https://github.com/WING-NUS/sequicity) :star::star::star::star:
 * **Mem2Seq**: "Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems". ACL(2018) [[PDF]](./papers/dialogue-system/P18-1136.pdf) [[code]](https://github.com/HLTCHKUST/Mem2Seq) :star::star::star::star:
 * **NKD**: "Knowledge Diffusion for Neural Dialogue Generation". ACL(2018) [[PDF]](./papers/dialogue-system/P18-1138.pdf) [[data]](https://github.com/liushuman/neural-knowledge-diffusion) :star::star:
 * **DAWnet**: "Chat More: Deepening and Widening the Chatting Topic via A Deep Model". SIGIR(2018) [[PDF]](./papers/dialogue-system/p255-wang.pdf) [[code]](https://sigirdawnet.wixsite.com/dawnet) :star::star::star:

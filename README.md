@@ -15,6 +15,7 @@ Paper reading list in natural language processing.
 ***
 
 ## Deep Learning in NLP
+* **Sparse-Seq2Seq**: "Sparse Sequence-to-Sequence Models". ACL(2019) [[PDF]](./papers/deep-learning/1905.05702.pdf) [[code]](https://github.com/deep-spin/entmax)
 * **BERT**: "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding". NAACL(2019) [[PDF]](./papers/deep-learning/N19-1423.pdf) [[code]](https://github.com/google-research/bert)
 * **CNM**: "CNM: An Interpretable Complex-valued Network for Matching". NAACL(2019) [[PDF]](./papers/deep-learning/N19-1420.pdf) [[code]](https://github.com/wabyking/qnn)
 * **ELMo**: "Deep contextualized word representations". NAACL(2018) [[PDF]](./papers/deep-learning/N18-1202.pdf)

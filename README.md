@@ -33,7 +33,7 @@ Paper reading list in natural language processing.
 * **GAN**: "Generative Adversarial Nets". NIPS(2014) [[PDF]](./papers/deep-learning/5423-generative-adversarial-nets.pdf)
 * **SeqGAN**: "SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient". AAAI(2017) [[PDF]](./papers/deep-learning/14344-66977-1-PB.pdf) [[code]](https://github.com/LantaoYu/SeqGAN)
 * **MacNet**: "MacNet: Transferring Knowledge from Machine
-Comprehension to Sequence-to-Sequence Models". NIPS(2018) [[PDF]](./papers/text-summarization/7848-macnet.pdf)
+Comprehension to Sequence-to-Sequence Models". NIPS(2018) [[PDF]](./papers/deep-learning/7848-macnet.pdf)
 * **Graph2Seq**: "Graph2Seq: Graph to Sequence Learning with Attention-based Neural Networks". arXiv(2018) [[PDF]](./papers/deep-learning/1804.00823-graph2seq.pdf)
 * **Pretrained Seq2Seq**: "Unsupervised Pretraining for Sequence to Sequence Learning". EMNLP(2017) [[PDF]](./papers/deep-learning/D17-1039.pdf)
 * **Multi-task Learning**: "An Overview of Multi-Task Learning in Deep Neural Networks". arXiv(2017) [[PDF]](./papers/deep-learning/1706.05098.pdf)
@@ -53,6 +53,8 @@ Dialogue Systems". ACL(2019) [[PDF]](./papers/dialogue-system/1905.08743.pdf) [[
 ". NAACL(2019) [[PDF]](./papers/dialogue-system/N19-1126.pdf) [[code]](https://github.com/dair-iitd/BossNet) :star::star::star:
 * **CAS**: "Skeleton-to-Response: Dialogue Generation Guided by Retrieval Memory". NAACL(2019) [[PDF]](./papers/dialogue-system/N19-1124.pdf) [[code]](https://github.com/jcyk/Skeleton-to-Response) :star::star::star:
 * **Edit-N-Rerank**: "Response Generation by Context-aware Prototype Editing". AAAI(2019) [[PDF]](./papers/dialogue-system/1806.07042.pdf) [[code]](https://github.com/MarkWuNLP/ResponseEdit) :star::star::star:
+* **XiaoIce**: "The Design and Implementation of XiaoIce, an Empathetic Social Chatbot". arXiv(2018) [[PDF]](./papers/dialogue-system/1812.08989.pdf) :star::star::star:
+* **Survey of Dialogue**: "A Survey on Dialogue Systems: Recent Advances and New Frontiers". SIGKDD Explorations(2017) [[PDF]](./papers/dialogue-system/p25-chen.pdf) :star:
 * **Survey of Dialogue Corpora**: "A Survey of Available Corpora For Building Data-Driven Dialogue Systems: The Journal Version". Dialogue & Discourse(2018) [[PDF]](./papers/dialogue-system/3690-7705-1-PB.pdf) :star:
 * **D2A**: "Dialog-to-Action: Conversational Question Answering Over a Large-Scale Knowledge Base". NIPS(2018) [[PDF]](./papers/dialogue-system/7558-dialog-to-action.pdf) :star::star:
 * **DAIM**: "Generating Informative and Diverse Conversational Responses via Adversarial Information Maximization". NIPS(2018) [[PDF]](./papers/dialogue-system/7452-generating-informative.pdf) :star::star:
@@ -99,6 +101,7 @@ Task-oriented Dialogue Systems". TOIS(2018) [[PDF]](./papers/dialogue-system/180
 * **Retrieval+multi-seq2seq**: "An Ensemble of Retrieval-Based and Generation-Based Human-Computer Conversation Systems". IJCAI(2018) [[PDF]](./papers/dialogue-system/IJCAI-0609.pdf) :star::star::star:
 
 ## Text Summarization
+* **BERTSum**: "Fine-tune BERT for Extractive Summarization". arXiv(2019) [[PDF]](./papers/text-summarization/1903.10318.pdf) [[code]](https://github.com/nlpyang/BertSum) :star::star::star:
 * **BERT-Two-Stage**: "Pretraining-Based Natural Language Generation for Text Summarization". arXiv(2019)  [[PDF]](./papers/text-summarization/1902.09243.pdf) :star::star:
 * **QASumm**: "Guiding Extractive Summarization with Question-Answering Rewards". NAACL(2019) [[PDF]](./papers/text-summarization/N19-1264.pdf) [[code]](https://github.com/ucfnlp/summ_qa_rewards) :star::star::star::star:
 * **Re^3Sum**: "Retrieve, Rerank and Rewrite: Soft Template Based Neural Summarization". ACL(2018) [[PDF]](./papers/text-summarization/P18-1015.pdf) [[code]](http://www4.comp.polyu.edu.hk/~cszqcao/data/IRSum_Resource.zip) :star::star::star:

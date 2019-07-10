@@ -81,6 +81,8 @@ Task-oriented Dialogue Systems". TOIS(2018) [[PDF]](./papers/dialogue-system/180
 * **DC-MMI**: "Generating More Interesting Responses in Neural Conversation Models with Distributional Constraints". EMNLP(2018) [[PDF]](./papers/dialogue-system/D18-1431.pdf) [[code]](https://github.com/abaheti95/DC-NeuralConversation) :star::star:
 * **StateNet**: "Towards Universal Dialogue State Tracking". EMNLP(2018) [[PDF]](./papers/dialogue-system/D18-1299.pdf) :star:
 * **cVAE-XGate/CGate**: "Better Conversations by Modeling, Filtering, and Optimizing for Coherence and Diversity". EMNLP(2018) [[PDF]](./papers/dialogue-system/D18-1432.pdf) [[code]](https://github.com/XinnuoXu/CVAE_Dial) :star::star::star:
+* **DAM**: "Multi-Turn Response Selection for Chatbots with Deep Attention
+Matching Network". ACL(2018) [[PDF]](./papers/dialogue-system/P18-1103.pdf) [[code]](https://github.com/baidu/Dialogue/tree/master/DAM) :star::star::star::star:
 * **SMN**: "Sequential Matching Network: A New Architecture for Multi-turn Response Selection in Retrieval-Based Chatbots". ACL(2017) [[PDF]](./papers/dialogue-system/P17-1046.pdf)  [[code]](https://github.com/MarkWuNLP/MultiTurnResponseSelection) :star::star::star::star:
 * **KVR Net**: "Key-Value Retrieval Networks for Task-Oriented Dialogue". SIGDIAL(2017) [[PDF]](./papers/dialogue-system/W17-5506.pdf) [[data]](https://nlp.stanford.edu/blog/a-new-multi-turn-multi-domain-task-oriented-dialogue-dataset/) :star::star:
 * **MMI**: "A Diversity-Promoting Objective Function for Neural Conversation Models". NAACL-HLT(2016)  [[PDF]](./papers/dialogue-system/N16-1014.pdf) [[code]](https://github.com/jiweil/Neural-Dialogue-Generation) :star::star:

@@ -41,6 +41,7 @@ Comprehension to Sequence-to-Sequence Models". NIPS(2018) [[PDF]](./papers/deep-
 
 
 ## Dialogue System
+* **Task-Oriented Dialogue Systems**: "Learning to Memorize in Neural Task-Oriented Dialogue Systems". HKUST MPhil Thesis(2019) [[PDF]](1905.07687.pdf) :star::star::star::star:
 * **TRADE**: "Transferable Multi-Domain State Generator for Task-Oriented
 Dialogue Systems". ACL(2019) [[PDF]](./papers/dialogue-system/1905.08743.pdf) [[code]](https://github.com/jasonwu0731/trade-dst) :star::star::star::star:
 * **PAML**: "Personalizing Dialogue Agents via Meta-Learning". ACL(2019) [[PDF]](./papers/dialogue-system/1905.10033.pdf) [[code]](https://github.com/HLTCHKUST/PAML) :star::star::star:

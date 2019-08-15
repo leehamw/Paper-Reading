@@ -2,15 +2,15 @@
 Paper reading list in natural language processing.
 
 
-- [Paper-Reading](#Paper-Reading)
-  - [Deep Learning in NLP](#Deep-Learning-in-NLP)
-  - [Dialogue System](#Dialogue-System)
-  - [Text Summarization](#Text-Summarization)
-  - [Topic Modeling](#Topic-Modeling)
-  - [Machine Translation](#Machine-Translation)
-  - [Question Answering](#Question-Answering)
-  - [Reading Comprehension](#Reading-Comprehension)
-  - [Image Captioning](#Image-Captioning)
+- [Paper-Reading](#paper-reading)
+  - [Deep Learning in NLP](#deep-learning-in-nlp)
+  - [Dialogue System](#dialogue-system)
+  - [Text Summarization](#text-summarization)
+  - [Topic Modeling](#topic-modeling)
+  - [Machine Translation](#machine-translation)
+  - [Question Answering](#question-answering)
+  - [Reading Comprehension](#reading-comprehension)
+  - [Image Captioning](#image-captioning)
 
 ***
 
@@ -44,9 +44,10 @@ Comprehension to Sequence-to-Sequence Models". NIPS(2018) [[PDF]](./papers/deep-
 * **Task-Oriented Dialogue Systems**: "Learning to Memorize in Neural Task-Oriented Dialogue Systems". HKUST MPhil Thesis(2019) [[PDF]](1905.07687.pdf) :star::star::star::star:
 * **TRADE**: "Transferable Multi-Domain State Generator for Task-Oriented
 Dialogue Systems". ACL(2019) [[PDF]](./papers/dialogue-system/1905.08743.pdf) [[code]](https://github.com/jasonwu0731/trade-dst) :star::star::star::star:
+* **WMM2Seq**: "A Working Memory Model for Task-oriented Dialog Response Generation". ACL(2019) [[PDF]](https://www.aclweb.org/anthology/P19-1258) :star::star::star:
 * **PAML**: "Personalizing Dialogue Agents via Meta-Learning". ACL(2019) [[PDF]](./papers/dialogue-system/1905.10033.pdf) [[code]](https://github.com/HLTCHKUST/PAML) :star::star::star:
 * **Pretrain-Fine-tune**: "Training Neural Response Selection for Task-Oriented Dialogue Systems". ACL(2019) [[PDF]](./papers/dialogue-system/1906.01543.pdf) [[data]](https://github.com/PolyAI-LDN/conversational-datasets) :star::star::star:
-* **PostKS**: "Learning to Select Knowledge for Response Generation in Dialog Systems". arXiv(2019) [[PDF]](./papers/dialogue-system/1902.04911.pdf) :star::star:
+* **PostKS**: "Learning to Select Knowledge for Response Generation in Dialog Systems". IJCAI(2019) [[PDF]](https://www.ijcai.org/proceedings/2019/0706.pdf) :star::star:
 * **GLMP**: "Global-to-local Memory Pointer Networks for Task-Oriented Dialogue". ICLR(2019) [[PDF]](./papers/dialogue-system/1901.04713.pdf) [[code]](https://github.com/jasonwu0731/GLMP) :star::star::star::star:
 * **Two-Stage-Transformer**: "Wizard of Wikipedia: Knowledge-Powered Conversational agents". ICLR(2019) [[PDF]](./papers/dialogue-system/1811.01241.pdf) :star::star:
 * **Multi-level Mem**: "Multi-Level Memory for Task Oriented Dialogs". NAACL(2019) [[PDF]](./papers/dialogue-system/N19-1375.pdf) [[code]](https://github.com/DineshRaghu/multi-level-memory-network)  :star::star::star::star:

@@ -44,9 +44,10 @@ Comprehension to Sequence-to-Sequence Models". NIPS(2018) [[PDF]](http://papers.
 * **Task-Oriented Dialogue Systems**: "Learning to Memorize in Neural Task-Oriented Dialogue Systems". HKUST MPhil Thesis(2019) [[PDF]](https://arxiv.org/pdf/1905.07687.pdf) :star::star::star::star:
 * **TRADE**: "Transferable Multi-Domain State Generator for Task-Oriented
 Dialogue Systems". ACL(2019) [[PDF]](https://www.aclweb.org/anthology/P19-1078) [[code]](https://github.com/jasonwu0731/trade-dst) :star::star::star::star:
-* **WMM2Seq**: "A Working Memory Model for Task-oriented Dialog Response Generation". ACL(2019) [[PDF]](https://www.aclweb.org/anthology/P19-1258) :star::star::star:
+* **WMM2Seq**: "A Working Memory Model for Task-oriented Dialog Response Generation". ACL(2019) [[PDF]](https://www.aclweb.org/anthology/P19-1258) :star::star::
 * **PAML**: "Personalizing Dialogue Agents via Meta-Learning". ACL(2019) [[PDF]](https://www.aclweb.org/anthology/P19-1542) [[code]](https://github.com/HLTCHKUST/PAML) :star::star::star:
 * **Pretrain-Fine-tune**: "Training Neural Response Selection for Task-Oriented Dialogue Systems". ACL(2019) [[PDF]](https://www.aclweb.org/anthology/P19-1536) [[data]](https://github.com/PolyAI-LDN/conversational-datasets) :star::star::star:
+* **DuConv**: "Proactive Human-Machine Conversation with Explicit Conversation Goals". ACL(2019) [[PDF]](https://www.aclweb.org/anthology/P19-1369) [[code]](https://github.com/PaddlePaddle/models/tree/develop/PaddleNLP/Research/ACL2019-DuConv) :star::star::star::star:
 * **PostKS**: "Learning to Select Knowledge for Response Generation in Dialog Systems". IJCAI(2019) [[PDF]](https://www.ijcai.org/proceedings/2019/0706.pdf) :star::star:
 * **GLMP**: "Global-to-local Memory Pointer Networks for Task-Oriented Dialogue". ICLR(2019) [[PDF]](https://arxiv.org/pdf/1901.04713.pdf) [[code]](https://github.com/jasonwu0731/GLMP) :star::star::star::star:
 * **Two-Stage-Transformer**: "Wizard of Wikipedia: Knowledge-Powered Conversational agents". ICLR(2019) [[PDF]](https://arxiv.org/pdf/1811.01241.pdf) :star::star:
@@ -152,26 +153,26 @@ Matching Network". ACL(2018) [[PDF]](https://www.aclweb.org/anthology/P18-1103) 
 * **COTM**: "A topic model for co-occurring normal documents and short texts". WWW (2018) [[PDF]](https://link.springer.com/content/pdf/10.1007%2Fs11280-017-0467-8.pdf) :star::star::star::star:
 
 ## Machine Translation
-* **Deliberation Networks**: "Deliberation Networks: Sequence Generation Beyond One-Pass Decoding". NIPS(2017) [[PDF]](./papers/machine-translation/6775-deliberation-networks.pdf) :star::star::star:
-* **Multi-pass decoder**: "Adaptive Multi-pass Decoder for Neural Machine Translation". EMNLP(2018) [[PDF]](./papers/machine-translation/Multi-pass-decoder.pdf) :star::star::star:
-* **KVMem-Attention**: "Neural Machine Translation with Key-Value Memory-Augmented Attention". IJCAI(2018) [[PDF]](./papers/machine-translation/IJCAI-0357.pdf) :star::star::star:
-* **Interactive-Attention**: "Interactive Attention for Neural Machine Translation". COLING(2016) [[PDF]](./papers/machine-translation/C16-1205.pdf) :star::star::star:
+* **Multi-pass decoder**: "Adaptive Multi-pass Decoder for Neural Machine Translation". EMNLP(2018) [[PDF]](https://www.aclweb.org/anthology/D18-1048) :star::star::star:
+* **Deliberation Networks**: "Deliberation Networks: Sequence Generation Beyond One-Pass Decoding". NIPS(2017) [[PDF]](http://papers.nips.cc/paper/6775-deliberation-networks-sequence-generation-beyond-one-pass-decoding.pdf) :star::star::star:
+* **KVMem-Attention**: "Neural Machine Translation with Key-Value Memory-Augmented Attention". IJCAI(2018) [[PDF]](https://www.ijcai.org/proceedings/2018/0357.pdf) :star::star::star::star:
+* **Interactive-Attention**: "Interactive Attention for Neural Machine Translation". COLING(2016) [[PDF]](https://www.aclweb.org/anthology/C16-1205) :star::star::star:
 
 ## Question Answering
-* **CFC**: "Coarse-grain Fine-grain Coattention Network for Multi-evidence Question Answering". ICLR(2019) [[PDF]](./papers/question-answering/1901.00603.pdf) :star::star:
-* **MTQA**: "Multi-Task Learning with Multi-View Attention for Answer Selection and Knowledge Base Question Answering". AAAI(2019) [[PDF]](./papers/question-answering/1812.02354.pdf) [[code]](https://github.com/dengyang17/MTQA) :star::star::star:
+* **CFC**: "Coarse-grain Fine-grain Coattention Network for Multi-evidence Question Answering". ICLR(2019) [[PDF]](https://arxiv.org/pdf/1901.00603.pdf) :star::star:
+* **MTQA**: "Multi-Task Learning with Multi-View Attention for Answer Selection and Knowledge Base Question Answering". AAAI(2019) [[PDF]](https://aaai.org/ojs/index.php/AAAI/article/view/4593) [[code]](https://github.com/dengyang17/MTQA) :star::star::star:
 * **CQG-KBQA**: "Knowledge Base Question Answering via Encoding of
-Complex Query Graphs". EMNLP(2018) [[PDF]](./papers/question-answering/D18-1242.pdf) [[code]](http://202.120.38.146/CompQA/) :star::star::star::star::star:
-* **HR-BiLSTM**: "Improved Neural Relation Detection for Knowledge Base Question Answering". ACL(2017) [[PDF]](./papers/question-answering/P17-1053.pdf) :star::star::star:
-* **KBQA-CGK**: "An End-to-End Model for Question Answering over Knowledge Base with Cross-Attention Combining Global Knowledge". ACL(2017) [[PDF]](./papers/question-answering/P17-1021.pdf) :star::star::star:
-* **KVMem**: "Key-Value Memory Networks for Directly Reading Documents". EMNLP(2016) [[PDF]](./papers/question-answering/D16-1147.pdf) :star::star::star:
+Complex Query Graphs". EMNLP(2018) [[PDF]](https://www.aclweb.org/anthology/D18-1242) [[code]](http://202.120.38.146/CompQA/) :star::star::star::star::star:
+* **HR-BiLSTM**: "Improved Neural Relation Detection for Knowledge Base Question Answering". ACL(2017) [[PDF]](https://aclweb.org/anthology/P17-1053) :star::star::star:
+* **KBQA-CGK**: "An End-to-End Model for Question Answering over Knowledge Base with Cross-Attention Combining Global Knowledge". ACL(2017) [[PDF]](https://aclweb.org/anthology/P17-1021) :star::star::star:
+* **KVMem**: "Key-Value Memory Networks for Directly Reading Documents". EMNLP(2016) [[PDF]](https://www.aclweb.org/anthology/D16-1147) :star::star::star:
 
 ## Reading Comprehension
-* **DecompRC**: "Multi-hop Reading Comprehension through Question Decomposition and Rescoring". ACL(2019) [[PDF]](./papers/reading-comprehension/1906.02916.pdf) [[code]](https://github.com/shmsw25/DecompRC) :star::star::star::star:
-* **FlowQA**: "FlowQA: Grasping Flow in History for Conversational Machine Comprehension". ICLR(2019) [[PDF]](./papers/reading-comprehension/1810.06683.pdf) [[code]](https://github.com/momohuang/FlowQA) :star::star::star::star::star:
-*  **SDNet**: "SDNet: Contextualized Attention-based Deep Network for Conversational Question Answering". arXiv(2018) [[PDF]](./papers/reading-comprehension/1812.03593.pdf) [[code]](https://github.com/microsoft/SDNet) :star::star::star::star:
+* **DecompRC**: "Multi-hop Reading Comprehension through Question Decomposition and Rescoring". ACL(2019) [[PDF]](https://www.aclweb.org/anthology/P19-1613) [[code]](https://github.com/shmsw25/DecompRC) :star::star::star::star:
+* **FlowQA**: "FlowQA: Grasping Flow in History for Conversational Machine Comprehension". ICLR(2019) [[PDF]](https://arxiv.org/pdf/1810.06683.pdf) [[code]](https://github.com/momohuang/FlowQA) :star::star::star::star::star:
+*  **SDNet**: "SDNet: Contextualized Attention-based Deep Network for Conversational Question Answering". arXiv(2018) [[PDF]](https://arxiv.org/pdf/1812.03593.pdf) [[code]](https://github.com/microsoft/SDNet) :star::star::star::star:
 
 ## Image Captioning
-* **MLAIC**: "A Multi-task Learning Approach for Image Captioning". IJCAI(2018) [[PDF]](./papers/image-captioning/2018-ijcai-multitask-final.pdf) [[code]](https://github.com/andyweizhao/Multitask_Image_Captioning) :star::star::star::star:
-* **Up-Down Attention**: "Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering". CVPR(2018) [[PDF]](./papers/image-captioning/Bottom-Up_and_Top-Down_CVPR_2018_paper.pdf) :star::star::star:
-* **Recurrent-RSA**: "Pragmatically Informative Image Captioning with Character-Level Inference". NAACL(2018) [[PDF]](./papers/image-captioning/NAACL18-incremental-RSA.pdf) [[code]](https://github.com/reubenharry/Recurrent-RSA) :star::star::star:
+* **MLAIC**: "A Multi-task Learning Approach for Image Captioning". IJCAI(2018) [[PDF]](https://www.ijcai.org/proceedings/2018/0168.pdf) [[code]](https://github.com/andyweizhao/Multitask_Image_Captioning) :star::star::star:
+* **Up-Down Attention**: "Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering". CVPR(2018) [[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Anderson_Bottom-Up_and_Top-Down_CVPR_2018_paper.pdf) :star::star::star::star:
+* **Recurrent-RSA**: "Pragmatically Informative Image Captioning with Character-Level Inference". NAACL(2018) [[PDF]](https://www.aclweb.org/anthology/N18-2070) [[code]](https://github.com/reubenharry/Recurrent-RSA) :star::star::star:

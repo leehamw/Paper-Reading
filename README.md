@@ -112,6 +112,7 @@ Matching Network". ACL(2018) [[PDF]](https://www.aclweb.org/anthology/P18-1103) 
 * **NeuSum**: "Neural Document Summarization by Jointly Learning to Score and Select Sentences". ACL(2018) [[PDF]](https://www.aclweb.org/anthology/P18-1061) :star::star::star:
 * **rnn-ext+abs+RL+rerank**: "Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting". ACL(2018) [[PDF]](https://www.aclweb.org/anthology/P18-1063) [[Notes]](https://www.aclweb.org/anthology/attachments/P18-1063.Notes.pdf) [[code]](https://github.com/ChenRocks/fast_abs_rl) :star::star::star::star::star:
 * **Seq2Seq+CGU**: "Global Encoding for Abstractive Summarization". ACL(2018) [[PDF]](https://www.aclweb.org/anthology/P18-2027) [[code]](https://github.com/lancopku/Global-Encoding) :star::star::star:
+* **ML+RL**: "A Deep Reinforced Model for Abstractive Summarization". ICLR(2018) [[PDF]](https://arxiv.org/pdf/1705.04304.pdf) :star::star::star:
 * **T-ConvS2S**: "Don’t Give Me the Details, Just the Summary! Topic-Aware Convolutional Neural Networks for Extreme Summarization". EMNLP(2018) [[PDF]](https://www.aclweb.org/anthology/D18-1206) [[code]](https://github.com/shashiongithub/XSum) :star::star::star::star:
 * **RL-Topic-ConvS2S**: "A reinforced topic-aware convolutional sequence-to-sequence model for abstractive text summarization". IJCAI (2018) [[PDF]](https://www.ijcai.org/proceedings/2018/0619.pdf) :star::star::star:
 * **GANsum**: "Generative Adversarial Network for Abstractive Text Summarization". AAAI(2018) [[PDF]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16238/16492) :star:
@@ -175,4 +176,5 @@ Complex Query Graphs". EMNLP(2018) [[PDF]](https://www.aclweb.org/anthology/D18-
 ## Image Captioning
 * **MLAIC**: "A Multi-task Learning Approach for Image Captioning". IJCAI(2018) [[PDF]](https://www.ijcai.org/proceedings/2018/0168.pdf) [[code]](https://github.com/andyweizhao/Multitask_Image_Captioning) :star::star::star:
 * **Up-Down Attention**: "Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering". CVPR(2018) [[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Anderson_Bottom-Up_and_Top-Down_CVPR_2018_paper.pdf) :star::star::star::star:
+* **SCST**: "Self-critical Sequence Training for Image Captioning". CVPR(2017) [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8099614) :star::star::star::star:
 * **Recurrent-RSA**: "Pragmatically Informative Image Captioning with Character-Level Inference". NAACL(2018) [[PDF]](https://www.aclweb.org/anthology/N18-2070) [[code]](https://github.com/reubenharry/Recurrent-RSA) :star::star::star:

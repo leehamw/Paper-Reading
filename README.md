@@ -130,6 +130,7 @@ Matching Network". ACL(2018) [[PDF]](https://www.aclweb.org/anthology/P18-1103) 
 * **Parameter Estimation**: "Parameter estimation for text analysis". Technical report (2005). [[PDF]](http://www.arbylon.net/publications/text-est2.pdf) :star::star::star:
 * **DTM**: "Dynamic Topic Models". ICML(2006) [[PDF]](https://dl.acm.org/citation.cfm?id=1143859) [[code]](https://github.com/blei-lab/dtm) :star::star::star::star:
 * **cDTM**: "Continuous Time Dynamic Topic Models". UAI(2008) [[PDF]](https://dslpitt.org/uai/papers/08/p579-wang.pdf) :star::star:
+* **iDocNADE**: "Document Informed Neural Autoregressive Topic Models with Distributional Prior". AAAI(2019) [[PDF]](https://aaai.org/ojs/index.php/AAAI/article/view/4616) [[code]](https://github.com/pgcool/iDocNADEe) :star::star::star::star:
 * **NTM**: "A Novel Neural Topic Model and Its Supervised Extension". AAAI(2015) [[PDF]](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9303/9544) :star::star::star::star:
 * **TWE**: "Topical Word Embeddings". AAAI(2015) [[PDF]](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9314/9535) :star::star:
 * **RATM-D**: "Recurrent Attentional Topic Model". AAAI(2017)[[PDF]](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14400/14203) :star::star::star::star:
